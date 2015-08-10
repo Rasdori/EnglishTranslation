@@ -382,7 +382,7 @@ QUEST_20150317_000381	You feel something suspicious inside.
 QUEST_20150317_000382	Worried Wife
 QUEST_20150317_000383	Have you ever had your fortune told? It is quite accurate isn't it? {Nl} Goddess Laima knows everything. Fate, Foresight, and Luck. {Nl} I think She may have known beforehand about all these disasters coming.
 QUEST_20150317_000384	I pray to Goddess Gabija everyday. It keeps the house warm. {Nl} As you may know, Goddess Gabija fosters fire {Nl} and, being a housewife, I have to be on good terms with fire.
-QUEST_20150317_000385	My husband always prays to Goddess Zemyna. {Nl} If you want a good potato harvest, you should not get on her wrong side. {Nl} Goddess Zemyna is the Goddess of Earth. She also oversees the farms and agriculture. 
+QUEST_20150317_000385	My husband always prays to Goddess Zemyna. {Nl} If you want a good potato harvest, you should not get on her bad side. {Nl} Goddess Zemyna is the Goddess of Earth, so she oversees farming and agriculture.  
 QUEST_20150317_000386	Speaking of such…{Nl} About the plants mutating since four years ago…
 QUEST_20150317_000387	I wonder how Goddess Zemyna will think about it. {Nl} Everything will be revealed when the Goddess returns but… {Nl}Oh, what blasphemous words am I speaking?
 QUEST_20150317_000388	Have you ever seen the stars glittering red in the night sky? {Nl} That's the very symbol of Goddess Vakarine. {Nl} She leads the evening star and wakes Goddess Ausrine the following day.
@@ -409,7 +409,7 @@ QUEST_20150317_000408	Therefore, help the herbalists before you get into trainin
 QUEST_20150317_000409	My father told me Klaipeda is also becoming a difficult place to live.
 QUEST_20150317_000410	There are many people who want to buy things, but it's not easy to get what they want. {nl}We have enough food supplies for now, but it won't last long.
 QUEST_20150317_000411	I heard the town's men can't make their way back because of the monsters. {Nl} Food is okay, but the supplies will run out soon…
-QUEST_20150317_000412	I'm worried how we can live if this continues. {Nl}Where have all the Goddesses gone?{Nl}
+QUEST_20150317_000412	I'm worried, our lives may be in danger if this continues. {Nl}Where have all the Goddesses gone?{Nl}
 QUEST_20150317_000413	It's a good idea to sell the various items you get from killing monsters, {Nl}but nowadays, using it to craft new items yourself is not too bad either.
 QUEST_20150317_000414	Although we need to be self-sufficient, things like recipes are better bought from the merchants. {Nl} You need to know how to make it before you actually craft one yourself.
 QUEST_20150317_000415	If you see sparkling monsters, be sure to kill them. You might get some great items as trophies. {Nl}And what about buying me some drinks for the good information I just gave you?
@@ -1823,15 +1823,15 @@ QUEST_20150414_001826	The baron's greediness sent his men into this area. {nl}Of
 QUEST_20150414_001827	I watched everything with this wizards' eyes. {nl}Even the screams of Vakarine and her Cupols. 
 QUEST_20150414_001828	It depends on whether you have the will to save the Goddess. {nl}We can take time to talk about it. 
 QUEST_20150414_001829	Isn't there a more effective way to block the monsters…
-QUEST_20150414_001830	It's not easy to freshly cultivate the farm. {nl}At least there are less monsters.
+QUEST_20150414_001830	It's not easy to cultivate fresh food from the farm. {nl}At least when there are monsters in your way.
 QUEST_20150414_001831	They were gentle monsters but suddenly became vicious. {nl}Have you also heard anything like this? 
 QUEST_20150414_001832	Many loved ones would have been lost if not for you. {nl}Why would someone do that? 
 QUEST_20150414_001833	I'm sure it's a monster behind a man's mask. {nl}Spreading poison? Ebonipon? I will remember that.  
 QUEST_20150414_001834	Such weird things happen when trying to cultivate a new farm. {nl}Well, you can say it's even weirder if nothing happens nowadays. 
-QUEST_20150414_001835	I thought we wouldn't lack manpower since it's close to Klaipeda. I guess that was my mistake. {nl}Well at least we have soldiers to fight against large monsters.
-QUEST_20150414_001836	Guarding the farm is tiring enough. {nl}How much time is needed for the soldiers exploring the Thorn Forest? 
-QUEST_20150414_001837	One of two monsters are fine. {nl}But I'm worried if I can handle it if they flock in.
-QUEST_20150414_001838	I'm standing post here. {nl}It's better than the Eastern Forest because there are less mosnters{nl}but there is no easy work.
+QUEST_20150414_001835	I thought we would never lack manpower since we're close to Klaipeda. I guess that was my mistake. {nl}Well at least we have soldiers to fight against large groups of monsters.
+QUEST_20150414_001836	Guarding the farm is tiring enough. {nl}How long would it take the other soldiers to explore Thorn Forest? 
+QUEST_20150414_001837	I can fight one or two monsters just fine. {nl} I'm more worried if I can handle them in flocks.
+QUEST_20150414_001838	I'm standing post here. {nl}It's better here than the Eastern Forest because there are less monsters{nl}but there is no such thing as easy work.
 QUEST_20150414_001839	My colleagues' faces turned pale and ran away. What's happening? 
 QUEST_20150414_001840	Gorgon? Gosh… See, I saw it. 
 QUEST_20150414_001841	A tremendous monster was sighted here. Have you seen it? 
@@ -1913,7 +1913,7 @@ QUEST_20150428_001916	You feel like you would be swallowed into it.
 QUEST_20150428_001917	You can't find anything yet.
 QUEST_20150428_001918	The husband of a refugee
 QUEST_20150428_001919	The wife of a refugee
-QUEST_20150428_001920	It is very fortunate.{nl}Shall we return to the village?
+QUEST_20150428_001920	We are very fortunate to have lived.{nl}Shall we return to the village?
 QUEST_20150428_001921	Will
 QUEST_20150428_001922	You are being so stingy. Then I will be stingy too.
 QUEST_20150428_001923	Blackened Clue
@@ -2081,9 +2081,9 @@ QUEST_20150714_002084	Don't forget that we won 600 years ago.{nl}Join the milita
 QUEST_20150714_002085	Please move with us if possible.{nl}There's a report that many monsters were seen near here.
 QUEST_20150714_002086	The supplies would come soon…{nl}Are they going to come late again?
 QUEST_20150714_002087	You will need various tools when travelling.{nl}It's better you buy them in advance.
-QUEST_20150714_002088	Goddess Laima… Actually I don't know her well. Everyone doesn't know the goddess well except for the disciples.{nl}I heard she is the Goddess of Destiny and Forecasts, but she has never shown up.{nl}
+QUEST_20150714_002088	Goddess Laima… Actually, nobody know her that well. Nobody knows much about the Goddesses at all except for their disciples.{nl}I heard she is the Goddess of Destiny and Forecasts, but people have yet to meet her.{nl}
 QUEST_20150714_002089	I just remembered something while I was talking to you.{nl}Maybe the goddess, Laima knew everything about the disaster beforehand.
-QUEST_20150714_002090	I pray to the Goddess Gabija everyday. The house is always warm because of that.{nl}You too probably know it already. Goddess Gabija controls fire.{nl}Since I am a housewife, I am close to fire as well.
+QUEST_20150714_002090	I pray to the Goddess Gabija everyday, this keeps the house warm.{nl}As everyone already knows, Goddess Gabija controls fire.{nl}Since I am a housewife, I will always use fire at home.
 QUEST_20150714_002091	If you cleverly use the dried air due to the severe cold, you can freeze an object even at in a desert.{nl}However, if you can't receive the blessing from the goddess, it won't be possible to make that kind of air.
 QUEST_20150714_002092	The records of the master himself
 QUEST_20150714_002093	I've studied magics for a long time as a Sorcerer.{nl}From the process, the advancement of Sorcerer can't be explained without relating with the demons, and since the demons and the goddesses were facing against each other, the field has been widened to the studying of the goddesses.

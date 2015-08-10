@@ -196,12 +196,12 @@ QUEST_LV_0100_20150317_000195	I don't have anything to tell you as a humble merc
 QUEST_LV_0100_20150317_000196	Why do you come here now after such a long time?{nl}Where is Mirta and who are you?
 QUEST_LV_0100_20150317_000197	I'm trying to remember something but it keeps fading whenever I get close.
 QUEST_LV_0100_20150317_000198	Vaidotas
-QUEST_LV_0100_20150317_000199	The smell.. I think the purifying device in the mine is broken.{nl}We better repair it quickly. The people taken away might suffocate.
+QUEST_LV_0100_20150317_000199	This smell.. I think the purifying device in the mine is broken.{nl}We better repair it quickly or the people inside may suffocate.
 QUEST_LV_0100_20150317_000200	Do you know the legend of Cunningham?{nl}It's a legend about the great demon sealed here in the Crystal Mine.{nl}For more details, there is a book about it in the miners lounge of 2nd Gallery.{nl}
 QUEST_LV_0100_20150317_000201	Anyway, my guess is that the demon is re-awakening and is controlling the Vubbes.{nl}The dream the bishop had and the legend of Cunningham... I feel it might be a sign that something huge is about to happen.{nl}
 QUEST_LV_0100_20150317_000202	Only the Goddess would know if it is hope or despair.{nl}
 QUEST_LV_0100_20150317_000203	The purifier can be easily fixed by anyone but it may be hard to find the parts.{nl}In that case, use the compass that I gave you.{nl}
-QUEST_LV_0100_20150317_000204	Well then, I have some things to do so I will meet you in the 3rd Gallery.{nl}I wish for your fortune of war in the name of the Goddess.
+QUEST_LV_0100_20150317_000204	Well then, I have things to take care of so I will meet you in the 3rd Gallery.{nl}I wish you good luck in your battles in the name of the goddess.
 QUEST_LV_0100_20150317_000205	If you can't repair the purifier, use the compass I gave you.{nl}You'll be able to find a way.
 QUEST_LV_0100_20150317_000206	Village Aunt
 QUEST_LV_0100_20150317_000207	Did you come to save us? Did you?
@@ -219,7 +219,7 @@ QUEST_LV_0100_20150317_000218	Soldier Jays
 QUEST_LV_0100_20150317_000219	I will protect this village for my dead colleagues.
 QUEST_LV_0100_20150317_000220	Even if the world changes, I will never forgive the Vubbes.
 QUEST_LV_0100_20150317_000221	Soldier Edgar
-QUEST_LV_0100_20150317_000222	These are the rations that we gathered from the east forest.{nl}I will never, ever lose them again. Never.
+QUEST_LV_0100_20150317_000222	These are the rations that we gathered from the east forest.{nl}I will keep these safe this time! Mark my words!
 QUEST_LV_0100_20150317_000223	Thanks to you, I found this much.{nl}I'm so happy.
 QUEST_LV_0100_20150317_000224	Knight Commander Uska
 QUEST_LV_0100_20150317_000225	Is this slate the evidence of salvation?{nl}It just looks like an old rock to me.
@@ -316,7 +316,7 @@ QUEST_LV_0100_20150317_000315	Thank you.{nl}Do not worry, I'll keep my promise.
 QUEST_LV_0100_20150317_000316	Outpost Sentinel
 QUEST_LV_0100_20150317_000317	
 QUEST_LV_0100_20150317_000318	Other monsters also show up when there are Chupacabras.{nl}Miners' Village is a problem on its own but there are just too many things to pay attention to.
-QUEST_LV_0100_20150317_000319	Thank you.{nl}It really helps lift our spirits.
+QUEST_LV_0100_20150317_000319	Thank you.{nl}What you've done for us will really lift our spirits.
 QUEST_LV_0100_20150317_000320	With your abilities, I have one more favor to ask.{nl}Can you help us drive out the Chupacabras in the supply camp too?
 QUEST_LV_0100_20150317_000321	The Miners' Village is a problem but out situation here is not so good either. {nl}We have to prepare some measures before the number of monsters increase even more.
 QUEST_LV_0100_20150317_000322	Are you done already?{nl}Never seen anyone as fast as you before.
@@ -354,11 +354,11 @@ QUEST_LV_0100_20150317_000353	Oh, it's you.{nl}I have heard from the operations 
 QUEST_LV_0100_20150317_000354	A Vubbe Fighter is hiding deep in the Nudegi Felled Area.{nl}We got the orders to kill it, but it may be safer to wait for additional troops.
 QUEST_LV_0100_20150317_000355	I'm just a Search Scout but it was my first time to see a Vubbe Fighter up close.
 QUEST_LV_0100_20150317_000356	Awesome. You got rid of it by yourself.{nl}Go ahead and report to Sir Aras. He'll be very pleased.
-QUEST_LV_0100_20150317_000357	You mean you really killed the Vubbe Fighter?{nl}Well then, now we can be relieved since the number of monsters will no longer grow.
+QUEST_LV_0100_20150317_000357	Did you really defeat the Vubbe Fighter?{nl}This is a relief, now the number of monsters will no longer grow.
 QUEST_LV_0100_20150317_000358	Of course. As promised, I will grant your access to the Miners' Village.{nl}Please wait.
 QUEST_LV_0100_20150317_000359	If you find any clues, let the Operations Officer in the northern area know about it.
-QUEST_LV_0100_20150317_000360	I think the Miners' Village is not in a good situation.{nl}It's too late to move the troops so you go first to support the Miners' Village.
-QUEST_LV_0100_20150317_000361	They have low IQ but these monsters build groups and live as a community.{nl}They used to appear only occasionally in the deeper areas of the mines... Could they be expanding their forces?{nl}
+QUEST_LV_0100_20150317_000360	The Miners' Village is not in a good situation.{nl}It's too late to move the troops so you can go ahead to support at Miners' Village.
+QUEST_LV_0100_20150317_000361	Despite their low IQ, these monsters have built a community in which they live as a group.{nl}They used to appear only occasionally in the deeper areas of the mines... Could they be expanding their forces?{nl}
 QUEST_LV_0100_20150317_000362	Whatever the reason is, Vubbes expanding their territory is a big problem.{nl}Monsters that lose their territory to Vubbes will be forced to make their way into our base.
 QUEST_LV_0100_20150317_000363	It's a single road from here on so you'll be able to find the people easily.{nl}
 QUEST_LV_0100_20150317_000364	Oh, let me give you some helpful information in return for your your help.{nl}The evidence of salvation that the Revelators are looking for can be found in the Closed Area.
@@ -376,7 +376,7 @@ QUEST_LV_0100_20150317_000375	The kidnapped people are veteran miners so they ma
 QUEST_LV_0100_20150317_000376	It wasn't long ago.{nl}I felt a strange power while performing experiments in the Closed Area.{nl}It was different from the mana that we know but it was very warm.{nl}
 QUEST_LV_0100_20150317_000377	But some force did not allow me to approach, as if it had an owner already.{nl}A few days after the incident, the bishop dreamed about the evidence of salvation.{nl}
 QUEST_LV_0100_20150317_000378	Perhaps the evidence of salvation is the force I felt...{nl}That's what I think.
-QUEST_LV_0100_20150317_000379	All I see are monsters and we're out of supplies.{nl}I'm also curious how the battle situation is in Miners' Village.
+QUEST_LV_0100_20150317_000379	All I see are monsters and we're out of supplies.{nl}I'm also curious about the battle situation in Miners' Village.
 QUEST_LV_0100_20150317_000380	Until I'm assigned a new task, I'm thinking of going back to my duties as a Search Scout.{nl}Observing the monsters, you know.
 QUEST_LV_0100_20150317_000381	The Miners' Village is under siege and entrance is prohibited for civilians.{nl}Remember that we can't guarantee your safety if you do not get my permission.
 QUEST_LV_0100_20150317_000382	You have to cheer up.{nl} Even Sir Aras is holding on.
@@ -384,7 +384,7 @@ QUEST_LV_0100_20150317_000383	Goddess Zemyna overlooks the earth.{nl}There are r
 QUEST_LV_0100_20150317_000384	Vubbes suddenly came pouring in from outside of the Siaulai Woods.{nl}That's why the Mining Village located in the middle of it turned to a battlefield.{nl}
 QUEST_LV_0100_20150317_000385	And that's why I can't permit entrance to the Miners Village. For safety reasons.{nl}Of course it will be a different story if your skill are good enough to ensure{nl} your safety even without the protection of guards.
 QUEST_LV_0100_20150317_000386	Gosh, it could have been really dangerous.{nl}That huge thing was hiding so well.
-QUEST_LV_0100_20150317_000387	It's very important to study monsters at times like this.{nl}It's like weather forecasts where you try to find out the cause and see what would happen.
+QUEST_LV_0100_20150317_000387	It's very important to study monsters at times like these.{nl} Just like weather forecasts, you have to predict your opponent's moves.
 QUEST_LV_0100_20150317_000388	I'm sure the Leaf Bugs in Uoros farm stole it.{nl}They did steal from us once before.
 QUEST_LV_0100_20150317_000389	Send my regards to the Guard Captain when you meet him.
 QUEST_LV_0100_20150317_000390	In order to test if your skills are good enough to enter the Miners Village,{nl}I need you to help us solve a problem we have.{nl}
@@ -494,7 +494,7 @@ QUEST_LV_0100_20150317_000493	After the Goddesses disappeared, the capital was d
 QUEST_LV_0100_20150317_000494	Rodelero Master
 QUEST_LV_0100_20150317_000495	
 QUEST_LV_0100_20150317_000496	Squire Master
-QUEST_LV_0100_20150317_000497	We are in chaos nowadays, but we used to live in honorable times before.{nl}Well.. they are all in the past now.
+QUEST_LV_0100_20150317_000497	Times are chaotic nowadays, but we used to live in peaceful times. {nl}Well.. that's all in the past now.
 QUEST_LV_0100_20150317_000498	Wizard Master
 QUEST_LV_0100_20150317_000499	No matter how much magic talent you have, it is useless unless you train hard.
 QUEST_LV_0100_20150317_000500	You must be brave in order to protect the kingdom.{nl}But for that bravery to be different from recklessness, your skills should be good enough.
@@ -534,7 +534,7 @@ QUEST_LV_0100_20150317_000533	When you level up, you can increase a status of yo
 QUEST_LV_0100_20150317_000534	It's important to think ahead about what you would want to be. {nl} It's never an easy thing.
 QUEST_LV_0100_20150317_000535	Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	Sir Aras is in the center area of the Woods. {nl} But there has been a tremendous increase in monsters around here so I suggest you don't go in.
-QUEST_LV_0100_20150317_000537	Somehow Klaipeda has managed to hold back the monsters for now,{nl}but we have to find and remove the cause or we won't hold out for long.{nl}
+QUEST_LV_0100_20150317_000537	Klaipeda has managed to hold back the monsters for now,{nl}but we have to find and remove the source of the monsters or we won't hold out for much longer.{nl}
 QUEST_LV_0100_20150317_000538	That strange feeling I had in Crystal Mine 3F,{nl}it keeps occurring to me that it might be related to that girl the town people are talking about.{nl}
 QUEST_LV_0100_20150317_000539	I just feel bad that I wasn't able to meet
 QUEST_LV_0100_20150317_000540	Thank you for saving the villagers,{nl}but you're not going to the Closed Area, are you?
@@ -548,7 +548,7 @@ QUEST_LV_0100_20150317_000547	There are people who are after Zachariel's inherit
 QUEST_LV_0100_20150317_000548	Because of that, a few disciples have died.{nl}But, that's strange. It seems that it never happened.
 QUEST_LV_0100_20150317_000549	There were Gustas and my senior.{nl}Then am I the youngest? No..
 QUEST_LV_0100_20150317_000550	Gustas is proud to protect the inheritance of Zachariel.{nl}I wonder what he's going to do after he hands over that job.
-QUEST_LV_0100_20150317_000551	How many things are hiding in this canyon?{nl}More of king's inheritance will be here right?
+QUEST_LV_0100_20150317_000551	How many things are hidden in this canyon?{nl}Do you think it'll be possible to find any of the king's inheritance?
 QUEST_LV_0100_20150317_000552	According to the old records, the king erased the stonemason's memories using magic to protect the Mausoleum.{nl}I think it's amazing that he erased only those memories.
 QUEST_LV_0100_20150317_000553	Liaison Official Nian
 QUEST_LV_0100_20150317_000554	You saw it right? That's why I told you not to touch it.{nl}Because of this, we received an order to withdraw from this place.{nl}
@@ -564,7 +564,7 @@ QUEST_LV_0100_20150317_000563	I'm looking for a certain unique stone pole, but a
 QUEST_LV_0100_20150317_000564	I know that we received an order to withdraw, but know this,{nl}the reward will be well worth your time. You won't regret it.
 QUEST_LV_0100_20150317_000565	Okay. First collect amulets from Hogmas.{nl}After that, put those amulets on the stone pole at the bottom of Geltonas Plauteau.
 QUEST_LV_0100_20150317_000566	We have to get out of here quickly before something bigger, and worse, finds us.{nl}Well, so far so good, but coming in so far is not without it's dangers.{nl}I hope the kingdom pays more attention to rescuing people than they do to these kinds of experiments.
-QUEST_LV_0100_20150317_000567	Are you asking me how come a technician is at a place like this?{nl}As an advisior, of course. {nl} You'll need a technician like me to find out how this gigantic structure stood still for hundreds of years.
+QUEST_LV_0100_20150317_000567	Are you asking me why a technician would come to place like this?{nl}As an advisior, of course. {nl} You'll need a technician like me to find out how this gigantic structure stood still for hundreds of years.
 QUEST_LV_0100_20150317_000568	Looking at equations is one thing, but being out here...{nl}We will find the true nature of this place soon enough.
 QUEST_LV_0100_20150317_000569	According to this map, the thing we are looking for is on the Stone Pole Hill.{nl}Okay then. Would you please make a rubber copy of it?{nl}{nl}
 QUEST_LV_0100_20150317_000570	It would be best if I went there.{nl}Too bad my body isn't what it used to be though.
@@ -700,7 +700,7 @@ QUEST_LV_0100_20150317_000699
 QUEST_LV_0100_20150317_000700	It's called Moa. {nl}It ran away to the abondoned farm up there.{nl}
 QUEST_LV_0100_20150317_000701	
 QUEST_LV_0100_20150317_000702	Did Laima know that the world would turn out like this?{nl}She is the Goddess of destiny and forecasts.
-QUEST_LV_0100_20150317_000703	It's not a strange, Even the world will over tomorrow.{nl}But I want to know. Why Goddess disappeared..
+QUEST_LV_0100_20150317_000703 I wonder where the Goddesses have gone... {nl} It wouldn't be strange if the world ended tomorrow.
 QUEST_LV_0100_20150317_000704	Press {Img F1 40 40} to use your remaining status points on the ability you want to enhance. {nl}
 QUEST_LV_0100_20150317_000705	Press {Img F10 40 40} to open the Help menu.
 QUEST_LV_0100_20150317_000706	Press {Img F3 40 40} to open the Skill window. Use available Skill Points on the skills you want to enhance, then click Apply. {nl}
@@ -731,7 +731,7 @@ QUEST_LV_0100_20150317_000730	There is enough time, so visit Algis first.
 QUEST_LV_0100_20150317_000731	Now I will head this way to the church. {nl} Our Paladin friend likes the word 'if' a lot. {nl}
 QUEST_LV_0100_20150317_000732	If our mission goes as planned, then we will have no need to meet again. {nl} Well, it sounds like it would be unpleasant to meet you again, haha.
 QUEST_LV_0100_20150317_000733	Guard Allen
-QUEST_LV_0100_20150317_000734	The Mazas barrier which should the Demons have been destroyed. {nl} Would you help me repair it?
+QUEST_LV_0100_20150317_000734	The Mazas barrier that holds back the demons has been destroyed. {nl} Would you help me repair it?
 QUEST_LV_0100_20150317_000735	The barriers were made a long time ago. {nl} And now that I wasn't able to protect it well, what do I tell our ancestors?
 QUEST_LV_0100_20150317_000736	I'm not smart enough to know anything about restoring the barrier so tell that to sir Kayetonas.
 QUEST_LV_0100_20150317_000737	Follwer Kayetonas
@@ -747,10 +747,10 @@ QUEST_LV_0100_20150317_000746	Now, I think I can live. {nl} We have to keep and 
 QUEST_LV_0100_20150317_000747	The demons are very strong.{nl}I will protect this place to block those demons.
 QUEST_LV_0100_20150317_000748	Welcome, I'm glad to see that you've had a safe journey here. {nl}Before anything else, there are things about this place that the Revelator should know. {nl}
 QUEST_LV_0100_20150317_000749	My old friend, Algis, will explain. Please listen to him.
-QUEST_LV_0100_20150317_000750	I can see the monsters cleary from up here.{nl}He may get surrounded by them soon.
+QUEST_LV_0100_20150317_000750	I can see the monsters cleary from up here.{nl}We may get surrounded by them soon enough.
 QUEST_LV_0100_20150317_000751	The broken barrier pieces are scattered in the Mazas shelter. {nl} Collect it and give it to sir Kayetonas in flower hill. {nl}
-QUEST_LV_0100_20150317_000752	My poor father must be happy if he know I became a guard.{nl}But, I already made a mistake.
-QUEST_LV_0100_20150317_000753	We can say it's peaceful for now.{nl}For now.
+QUEST_LV_0100_20150317_000752	My father would be happy if he knew that I became a guard.{nl}But he would be disappointed if he knew the mistakes I've already made.
+QUEST_LV_0100_20150317_000753	This area is peaceful for now. That will change sometime soon.
 QUEST_LV_0100_20150317_000754	
 QUEST_LV_0100_20150317_000755	That's why if there are guards struggling with the barrier, I want you to help.
 QUEST_LV_0100_20150317_000756	Heard the plan failed. {nl} I guess we have to do something before the Gesti recovers.
@@ -759,14 +759,14 @@ QUEST_LV_0100_20150317_000758	Think about those flowers bite my leg someday.{nl}
 QUEST_LV_0100_20150317_000759	I need the fluids of Nepenthes, but it doesn't wake up.{nl}If it doesn't wake up, there is no way to extract them.{nl}
 QUEST_LV_0100_20150317_000760	That's why I am thinking about setting fire.{nl}I hope you collect the fats by defeating Malidus.
 QUEST_LV_0100_20150317_000761	Follower Reeke
-QUEST_LV_0100_20150317_000762	The eleders gave me many charms that will help me defeating the demons.{nl}I hope they help me.
+QUEST_LV_0100_20150317_000762	The elders gave me charms that will help me defeat the demons.{nl}I hope they will work.
 QUEST_LV_0100_20150317_000763	Those elders don't have a sense of reality.{nl}We should have gone to the cathedral instead of those Paladins.
 QUEST_LV_0100_20150317_000764	Good. Good.{nl}Let's see if it endures without standing up.
 QUEST_LV_0100_20150317_000765	Let's wake up Nepenthes at Piene by burning these fats.{nl}The fluids will be no use if they get spoiled so we should extract them when its alive.
 QUEST_LV_0100_20150317_000766	Only a person like me can handle that monster.{nl}What do you think?
 QUEST_LV_0100_20150317_000767	They protected their regions, but I guess they came down because of those demons.{nl}
 QUEST_LV_0100_20150317_000768	It's not listening?{nl}Is it because of Panto Totems at Valyma divine place?
-QUEST_LV_0100_20150317_000769	I will give you the stronger charm so use it after destroying Panto totem.{nl}Just like you did last time. You know it right?
+QUEST_LV_0100_20150317_000769	I will give you the stronger charm so use it after destroying the Panto totem.{nl}Just like you did last time, you remember right?
 QUEST_LV_0100_20150317_000770	Ah, and if brainwashed Panto attacks the attacking Panto, that Panto will be on our side as well.
 QUEST_LV_0100_20150317_000771	Now I get it. {nl}Well done.
 QUEST_LV_0100_20150317_000772	Follower Alfonsas
@@ -776,24 +776,24 @@ QUEST_LV_0100_20150317_000775	At least, the demons won't cross here.{nl}We may e
 QUEST_LV_0100_20150317_000776	It's getting swallowed up side down.{nl}Very effective indeed.
 QUEST_LV_0100_20150317_000777	Follower Vaidas
 QUEST_LV_0100_20150317_000778	It is reassuring to hear that Brother Thomas will be in charge of the altar.{nl}
-QUEST_LV_0100_20150317_000779	Brother Baidutis is waiting on the 1st Floor. {nl} Barrier of Gesti is blocking the way but it can simply be put off by the power of altar so not to worry.
+QUEST_LV_0100_20150317_000779	Brother Baidutis is waiting on the 1st Floor. {nl} Barrier of Gesti is blocking the way but rest assured that we can turn it off with the power of the altar.
 QUEST_LV_0100_20150317_000780	Follower Buydas
-QUEST_LV_0100_20150317_000781	I regret myself that I didn't bring enough Divine Stones.{nl}I should have put them in all my pockets.
+QUEST_LV_0100_20150317_000781	I regret that I did not stock up enough Divine Stones.{nl}I should have put them all in my pockets.
 QUEST_LV_0100_20150317_000782	The altars in the church are made to stop Demons. {nl} Of course, only we, the Paladins, know how to use them.
 QUEST_LV_0100_20150317_000783	Is Brother Baidutis alright?{nl} I would have been in serious trouble if not for your help.
 QUEST_LV_0100_20150317_000784	Follower Thomas
 QUEST_LV_0100_20150317_000785	Yognome is trying to eat the altar.{nl}I want you to defeat Yognome.
-QUEST_LV_0100_20150317_000786	If I have Divine Stones, I want to put them into Yognome's mouth.
+QUEST_LV_0100_20150317_000786	If I had Divine Stones, I would put them into Yognome's mouth.
 QUEST_LV_0100_20150317_000787	Follower Tiberius
 QUEST_LV_0100_20150317_000788	I am making a lethal bomb to attack demons.{nl}If I have Purified Essence, it will be done. Can you help me?
 QUEST_LV_0100_20150317_000789	Bombs in the cathedral doesn't sound good, but..{nl}I think the Goddess will forgive me this time.
 QUEST_LV_0100_20150317_000790	I want to test it on Glizardon.{nl}I will give you the bomb so can you put it onto the back of Glizardon?
 QUEST_LV_0100_20150317_000791	If you think it will be dangerous, I will also give you Romuva Divine Water.{nl}When you drink this water, those demons will be invisible for a while.
 QUEST_LV_0100_20150317_000792	Run away after setting the bomb on the back of Glizardon.{nl}Look at its size. It will not be fast.
-QUEST_LV_0100_20150317_000793	I only have an empty divine stone.{nl}Can you help me to fill this stone?
-QUEST_LV_0100_20150317_000794	We can sustain for a while if these stones can be filled without our brothers' help.
-QUEST_LV_0100_20150317_000795	It is a strategy to attack the boss first when there are multiple enemies.{nl}This time, it will be Glizardon.
-QUEST_LV_0100_20150317_000796	I never thought you would defeat it this quickly.{nl}Thank you for your help.
+QUEST_LV_0100_20150317_000793	I have an empty divine stone.{nl}Can you help me recharge it?
+QUEST_LV_0100_20150317_000794	We can defend a lot easier if we can fill these stones without our brothers' help.
+QUEST_LV_0100_20150317_000795	It's a strategy to attack the boss first when facing numerous enemies.{nl} Our focus will be Glizardon.
+QUEST_LV_0100_20150317_000796	I never thought you would defeat them this quickly.{nl}Thank you for all of your help.
 QUEST_LV_0100_20150317_000797	Follower Donatas
 QUEST_LV_0100_20150317_000798	Thank you. {nl} This is sufficient to make a transformation scroll.
 QUEST_LV_0100_20150317_000799	You can transform into a Demon by using this scroll. {nl} Persuade the Demons to go to the altar on their own.
@@ -803,7 +803,7 @@ QUEST_LV_0100_20150317_000802	The power of the altar makes conversion simple. {n
 QUEST_LV_0100_20150317_000803	The Demons have stronger minds than you might think. {nl}It will take a lot of effort to make them forget Gesti.
 QUEST_LV_0100_20150317_000804	Don't trust the waste too much since Glizardon may find out about it.
 QUEST_LV_0100_20150317_000805	I am thinking about an effective way to defeat the demons.{nl}I feel so reliable since you came.
-QUEST_LV_0100_20150317_000806	When we install the divine stones, the monsters near them will suck their lives themselves.{nl}Ignore the monsters that lost their lives.
+QUEST_LV_0100_20150317_000806	When you defeat a demon within range of a planted divine stone, {nl}the demons will have their lives sucked out of them.{nl} Don't worry about them though.
 QUEST_LV_0100_20150317_000807	You can obtain Vicious Essence from the demons.{nl}You can purify it from the altar down.
 QUEST_LV_0100_20150317_000808	Oh, they will find out if you are not confident enough. {nl}So it's better to fight the Demons to gain some self confidence before using the scroll.
 QUEST_LV_0100_20150317_000809	Epigraphist Raymond
@@ -830,10 +830,10 @@ QUEST_LV_0100_20150317_000829	Please put those sacrifices in the jar at Dumbal P
 QUEST_LV_0100_20150317_000830	It depends on how one uses necromancy.{nl}It could be good or bad depending on what Necromancer has in his mind.
 QUEST_LV_0100_20150317_000831	The experiment failed? I am so sorry.{nl}I should research more here to find out what went wrong.
 QUEST_LV_0100_20150317_000832	Monument of Lydia Schaffen
-QUEST_LV_0100_20150317_000833	My name is Lydia Schaffen.{nl}To endure deep and strong sadness from now, I am going to tell my truth about Ruklys on this land.
+QUEST_LV_0100_20150317_000833	My name is Lydia Schaffen.{nl}To endure deep and strong sadness from now, I am going to tell my truth about Ruklys, who was buried on this land.
 QUEST_LV_0100_20150317_000834	There are no more wood coals besides the ones you have so don't use them too much.
 QUEST_LV_0100_20150317_000835	I didn't know she was the alumnus to the traitor, Ruklys.{nl}Damn. I almost used all the wood coals.
-QUEST_LV_0100_20150317_000836	Eventually, Ruklys failed.{nl}He was destroyed by the ones who were jealous of him.{nl}He left to the Goddess from my hands.
+QUEST_LV_0100_20150317_000836	Eventually, Ruklys failed.{nl}He was destroyed by the ones who envied him.{nl}I sent him to the Goddess with my own hands.
 QUEST_LV_0100_20150317_000837	What was Lydia Schaffen's relationship with Ruklys?{nl}I am not smart enough to understand.
 QUEST_LV_0100_20150317_000838	I leave Ruklys on this land with my regrets and tears.{nl}If there's someone who wants to continue his will, I want to leave my secret on this gravestone.{nl}I will summarize the long writings here.
 QUEST_LV_0100_20150317_000839	The stage that Ruklys had reached was astonishing.{nl}But, his noble mission was too difficult to be accomplished on this land.
@@ -859,7 +859,7 @@ QUEST_LV_0100_20150317_000858	Great. {nl} Leave activating the altar to me and g
 QUEST_LV_0100_20150317_000859	Even if a person is in danger, if he knows that someone will come to help him, he will have the extra energy to endure longer.
 QUEST_LV_0100_20150317_000860	Good. This will be enough.
 QUEST_LV_0100_20150317_000861	It feels so good to see them flying.{nl}But, they are too noisy so I need to study more.
-QUEST_LV_0100_20150317_000862	I've never seen a stone with full of divine energy as this.{nl}Thanks for trying your best.
+QUEST_LV_0100_20150317_000862	I've never seen a stone with so much divine energy.{nl}Thanks for doing such a good job.
 QUEST_LV_0100_20150317_000863	The demons' attacks are stronger than we expected.{nl}If we are able to defeat Glizardon, then it will be easier to defeat them.
 QUEST_LV_0100_20150317_000864	Follower Baidutis
 QUEST_LV_0100_20150317_000865	I came to say that the Gesti went up to the 2nd floor and let my guard down. {nl} I would have been in a big trouble if not for you.
@@ -869,8 +869,8 @@ QUEST_LV_0100_20150317_000868	Well done. {nl} Making the crystal of light with t
 QUEST_LV_0100_20150317_000869	Prepare yourself before bringing the crystal of light to the gate. {nl}It can attract powerful monsters.
 QUEST_LV_0100_20150317_000870	I think I'll stay here to stop the Demons from entering the basement.
 QUEST_LV_0100_20150317_000871	It is an honor to fight with you, Revelator. {nl} Could you drive the Demons from this area while Sir Algis investigates?
-QUEST_LV_0100_20150317_000872	If you are okay, can you take Eyes of Madness to Rodelin?{nl}They are handy when you want to hide yourself from demons.
-QUEST_LV_0100_20150317_000873	I don't want those filthy things to be near me either.{nl}But, it's worse to face against those demons alone.
+QUEST_LV_0100_20150317_000872	If you're ready to fight now, can you take Eyes of Madness from Rodelin?{nl}They are handy when you want to hide yourself from demons.
+QUEST_LV_0100_20150317_000873	I don't want to hold those filthy things either.{nl}But you shouldn't face those demons without them.
 QUEST_LV_0100_20150317_000874	Thanks.{nl}I should share them with other brothers before the demons find out.
 QUEST_LV_0100_20150317_000875	You are indeed the revelator.{nl}Now, we can concentrate on protecting the altar.
 QUEST_LV_0100_20150317_000876	The barrier of main entrance in 1st floor can be offset by the power of the church so don't worry. {nl}That's what the altars are for. {nl}
@@ -916,7 +916,7 @@ QUEST_LV_0100_20150317_000915	Seems like Gesti did not notice yet. {nl}Better pr
 QUEST_LV_0100_20150317_000916	All the preparations made. {nl} Barriers of the church will soon weaken the Gesti. {nl}
 QUEST_LV_0100_20150317_000917	The weakened Gesti will be enough for you to handle. {nl} When the Gesti is cornered, I will make the final strike with the divine sphere.
 QUEST_LV_0100_20150317_000918	This is a piece of Mazas shelter barrier. {nl} Do not worry. {nl} There are ways to recover the barrier so I'm sure it will be alright.
-QUEST_LV_0100_20150317_000919	I didn't know the Demons will use the summoner to come across here. {nl} Better get rid of them all before they seige us.
+QUEST_LV_0100_20150317_000919	I didn't predict the Demons using the summoner to invade. {nl} Better get rid of them all before they seige us.
 QUEST_LV_0100_20150317_000920	Even with so many Demons, you still managed to make it through. {nl} You may be the Revelator, but that's still impressive. {nl}
 QUEST_LV_0100_20150317_000921	It's the revelation. {nl} Cherish it and do not show it to anyone else. {nl}
 QUEST_LV_0100_20150317_000922	Come on. Go to the Paladin Master. {nl} He will tell you the way you must go.
@@ -931,20 +931,20 @@ QUEST_LV_0100_20150317_000930	It is too much for me to handle alone without any 
 QUEST_LV_0100_20150317_000931	
 QUEST_LV_0100_20150317_000932	We still have a lot to do here.{nl}The Goddess told us to never give up.
 QUEST_LV_0100_20150317_000933	The world still needs more experience. {nl} We probably wouldn't have made it this far without the help of the Goddess.
-QUEST_LV_0100_20150317_000934	The activation of tree guard post is taking longer than I thought. {nl} We have no time, let's use a Demon's soul instead.
+QUEST_LV_0100_20150317_000934	The activation of the tree guard post is taking longer than I thought. {nl} We have no time, so let's use a Demon's soul instead.
 QUEST_LV_0100_20150317_000935	All souls are pure. {nl} So even if it's a Demon's soul, it can still provide some divine power.
 QUEST_LV_0100_20150317_000936	Oh the Tree guard post was filled with soul of the Demon. {nl} It still needs some final touches to complete but I'll take care of it. {nl}Great job.
-QUEST_LV_0100_20150317_000937	It's amazing you can use the barrier like that. {nl} Even the Paladins did not know about that. {nl}
+QUEST_LV_0100_20150317_000937	It's amazing that you can use the barrier like that. {nl} I doubt that the Paladins even know about it.{nl}
 QUEST_LV_0100_20150317_000938	
-QUEST_LV_0100_20150317_000939	Standing against this much enemies itself is a great deal. {nl} It's all thanks to the Paladin Master.
-QUEST_LV_0100_20150317_000940	Even though he's still young, Kenneth is amazing. {nl}I think we can entrust him a little more.
+QUEST_LV_0100_20150317_000939	Standing against this many enemies is a great feat. {nl} I was only prepared because of my experience with the Paladin Master.
+QUEST_LV_0100_20150317_000940	Even though he's still young, Kenneth is an amazing guard. {nl}I think we can entrust him with more duties..
 QUEST_LV_0100_20150317_000941	This is the message from the guards.{nl}A gigantic demon monster is coming this way.{nl}Follow me quickly.{nl}
 QUEST_LV_0100_20150317_000942	Biteregina that used to live in the deep forest came here.{nl}It even built the hive at the upper side of Rojus Plateau. Can you get rid of it since it's dangerous?
 QUEST_LV_0100_20150317_000943	Thank you so much!{nl}How could they come from such a far forest?{nl}Strange, isn't it?
 QUEST_LV_0100_20150317_000944	I can't do anything since Sidmias are attacking us.{nl}Can you defeat them?
 QUEST_LV_0100_20150317_000945	Those Sidmias want me to put my head on that flower bud.{nl}It's not good at all.
 QUEST_LV_0100_20150317_000946	We received the charm from the elders that will brainwash Pantos to stand on our side.{nl}Do you want to take up the challenge?{nl}
-QUEST_LV_0100_20150317_000947	According to the elders, we are done with those Pantos.{nl}We can't continue the relationship anymore.
+QUEST_LV_0100_20150317_000947	According to the elders, we are done fighting with the Pantos.{nl}We have to break off all ties.
 QUEST_LV_0100_20150317_000948	This barrier is impossible to open from the inside. {nl} Fortunately, the entrance to the basement looks safe. {nl}
 QUEST_LV_0100_20150317_000949	However, it's too dangerous to in the basement with the divine sphere. {nl} I'll wait here so you go to the 1st floor through the basement and open the barrier. {nl}
 QUEST_LV_0100_20150317_000950	You have done what other can't easily do.{nl}The Goddess must be proud of you.
@@ -1106,8 +1106,8 @@ QUEST_LV_0100_20150317_001105	This would not have happened if the old people had
 QUEST_LV_0100_20150317_001106	Good work. {nl} It's the parts the Pantos stole before. {nl} I never imagine I'd be seeing it again like this.
 QUEST_LV_0100_20150317_001107	Guard Molly
 QUEST_LV_0100_20150317_001108	The Pantos were not always such violent monsters. {nl}There must be a way to change them back. {nl}
-QUEST_LV_0100_20150317_001109	I want you to give young Pantos the highland beets in Nyosalrus Street.{nl}Then they would come to remind me of something?
-QUEST_LV_0100_20150317_001110	It's a bitter thing indeed. {nl} No matter how troubled the world is, they weren't like that before.
+QUEST_LV_0100_20150317_001109	I want you to give the young Pantos the highland beets in Nyosalrus Street.{nl}Then that may help them come to their senses?
+QUEST_LV_0100_20150317_001110	It's a bitter thing indeed. {nl} They weren't like that before, not until the world became troubled from the loss of the Goddesses.
 QUEST_LV_0100_20150317_001111	That's right. Thank you very much! {nl} Have you seen a broken cable car there? I used to ride that when I was a kid.
 QUEST_LV_0100_20150317_001112	Thank you! {nl} You've saved me and my friends from spending more than half of our lives just protecting the cable car. {nl}
 QUEST_LV_0100_20150317_001113	Since I'm the only one who can fix the cable car, I'll consider it clear. {nl} Oh, of course, thanks for your help.
@@ -1139,18 +1139,18 @@ QUEST_LV_0100_20150317_001138	Our family has been protecting this land for a lon
 QUEST_LV_0100_20150317_001139	Thank you for helping out. {nl} My workload has reduced a lot.
 QUEST_LV_0100_20150317_001140	
 QUEST_LV_0100_20150317_001141	We used to be on good terms with the Pantos. {nl} These days, we're constantly at each other's throats.
-QUEST_LV_0100_20150317_001142	I came back because the elders told me to restore the dolls used for spells.{nl}The dolls for spells. Isn't it exciting?
+QUEST_LV_0100_20150317_001142 I came back because the elders told me to animate the dolls used for spells.{nl}Dolls coming alive, isn't it exciting?
 QUEST_LV_0100_20150317_001143	Thank you. {nl} We might be able to go get more when more young men come.
 QUEST_LV_0100_20150317_001144	I can't stand seeing the Panto totems pressed with evil forces. {nl} I'm going to break it through the shaman doll. Want to give it a try?
 QUEST_LV_0100_20150317_001145	We can't do anything until Basil restores the shaman doll perfectly. {nl} Unless for special situations like this, we can use, uhm, nothing.
 QUEST_LV_0100_20150317_001146	It would have been a disaster if the Carnivore had had legs. {nl} I'm glad it was killed beforehand.
 QUEST_LV_0100_20150317_001147	I heard we promised the first Paladin three things in return for saving our family. {nl}
 QUEST_LV_0100_20150317_001148	To help build the Tenet Cathedral, {nl} to protect the divine relics by having watchmen guard the sacred land, {nl} and lastly, to protect each other together when great danger arises. {nl}
-QUEST_LV_0100_20150317_001149	I do not know what curse it was. {nl} There's got to be a record in the Tenet Cathedral.
+QUEST_LV_0100_20150317_001149	I do not know what kind of curse it was. {nl} But there has got to be a record of it in the Tenet Cathedral.
 QUEST_LV_0100_20150317_001150	Our Shaman dolls are different from Bokor's Shaman dolls. {nl}
 QUEST_LV_0100_20150317_001151	It does not curse like the Bokor's. {nl} It moves by itself to attack, or something like that.
-QUEST_LV_0100_20150317_001152	The Demons could have used their hands to make it easier for them to attack. {nl} Or maybe they were eyeing on the divine heal. {nl}
-QUEST_LV_0100_20150317_001153	Since the divine heal was hidden deep below the ground. {nl} Who could have known that the reason for the world's overturn was because of the plants?
+QUEST_LV_0100_20150317_001152	Demons could have easily defeated our troops with their hands alone, {nl} Or maybe they were searching for the divine heal. {nl}
+QUEST_LV_0100_20150317_001153	The divine heal was hidden deep below the ground. {nl} Nobody would have guessed that this would've made it easier for the plant monsters to overturn the world.
 QUEST_LV_0100_20150317_001154	You may use a bit of force if words aren't enough. {nl}We can't grow any further from each other anymore.
 QUEST_LV_0100_20150317_001155	You can summon the shaman doll with this summon scroll. {nl}
 QUEST_LV_0100_20150317_001156	If possible, get rid of the Carnivore too. {nl} It was contaminated by the Magi and I can't stand watching it anymore.
@@ -1190,9 +1190,9 @@ QUEST_LV_0100_20150317_001189	You're a brave guy. {nl} There are five clues in 1
 QUEST_LV_0100_20150317_001190	Found it. {nl} Then I'll start from now.
 QUEST_LV_0100_20150317_001191	I'll give you a riddle. {nl} It is something you must do, have done most, and will have to do. {nl} Show your answer in action.
 QUEST_LV_0100_20150317_001192	Good work. {nl} You will be rewarded with proper compensation.
-QUEST_LV_0100_20150317_001193	What do you think are the factors that affect outcomes?{nl}If you just focus on attacking, then you may receive more damages.
-QUEST_LV_0100_20150317_001194	If you ask me what is the strongest weapon, I will answer that is is faith.{nl}A colleague that you can truly rely on.
-QUEST_LV_0100_20150317_001195	Thaumaturge does not get stronger by learning.{nl}You should learn it yourself.
+QUEST_LV_0100_20150317_001193	What factors affect a battle outcome?{nl}If you focus only on attacking, then you may receive more damage.
+QUEST_LV_0100_20150317_001194	If you were to ask me what the strongest weapon is, I'd say faith. Faith is the only comrade you can truly depend on.
+QUEST_LV_0100_20150317_001195	Thaumaturge does not get stronger by just learning.{nl}You have to experience it for yourself.
 QUEST_LV_0100_20150317_001196	
 QUEST_LV_0100_20150317_001197	Stealth, detection, trap installation. {nl} Scouts are masters of searching and monitoring.
 QUEST_LV_0100_20150317_001198	We Sadhu are always on an eternal journey. {nl}When our journeys in this world come to an end, we'll still continue in the afterlife.
@@ -1225,7 +1225,7 @@ QUEST_LV_0100_20150317_001224	Mine Manager Bringker
 QUEST_LV_0100_20150317_001225	Still anxious. {nl} But thanks to you things are better than before.
 QUEST_LV_0100_20150317_001226	I can't believe the Cunningham's story is true... I think it needs more research.
 QUEST_LV_0100_20150317_001227	Everything has a source called Mana. {nl} And everyone can connect to each other's Mana if they want. {nl} Just like digging a canal.
-QUEST_LV_0100_20150317_001228	Have you ever seen Vubbes using pickaxes? {nl} What are they trying to find...
+QUEST_LV_0100_20150317_001228	Have you ever seen the Vubbes use pickaxes themselves? {nl} What are they trying to dig up...
 QUEST_LV_0100_20150317_001229	Thank you very much for saved us.{nl}
 QUEST_LV_0100_20150317_001230	If you still want to enter the Closed Area, collect the strange stone from the Vubbes. {nl} Stic it to the wall and the crystal wals open.
 QUEST_LV_0100_20150317_001231	What are you doing here? {nl} Go into the mines quickly. {nl} Weren't we supposed to meet in 1st Gallery?
@@ -1233,12 +1233,12 @@ QUEST_LV_0100_20150317_001232	No demons would be able to cross here.{nl}I will d
 QUEST_LV_0100_20150317_001233	Firm faith in us is the greatest shield.{nl}We always fought with our justice and faith.
 QUEST_LV_0100_20150317_001234	Well done.{nl}As the Paladin Master, I salute to your accomplishment.
 QUEST_LV_0100_20150317_001235	Guard Hames
-QUEST_LV_0100_20150317_001236	We should do anything to protect here from those demons.{nl}This land is divine.
+QUEST_LV_0100_20150317_001236	Us guards would do anything to protect these divine lands!
 QUEST_LV_0100_20150317_001237	I would have fled long time ago if it wasn't for that pledge.{nl}I am still the son of the great guard.
 QUEST_LV_0100_20150317_001238	We should somehow block those demons.{nl}I can't pass this danger to our brothers in the cathedral.
 QUEST_LV_0100_20150317_001239	We can't go in due to the barrier.{nl}To open the door, we should go through 1st floor of the basement.
 QUEST_LV_0100_20150317_001240	When I meet you again, is this world going to be peaceful.. I hope it is.
-QUEST_LV_0100_20150317_001241	I never expected those demons will come down this far.{nl}I hope our brothers stand still against them.
+QUEST_LV_0100_20150317_001241	I never expected those demons to have come down this far.{nl}I hope our brothers will be able to stand against them.
 QUEST_LV_0100_20150317_001242	We have lots of things to protect so we should rather defeat those demons quietly than excitng them.{nl}I feel much more safe with you.
 QUEST_LV_0100_20150317_001243	Honestly, I thought it would be hard to stand still with only Paladins.{nl}I guess my belief in them wasn't that much.
 QUEST_LV_0100_20150317_001244	It will be better to fight them face to face instead of hiding.{nl}It will be even better if the opponents are the demons.
@@ -1248,14 +1248,14 @@ QUEST_LV_0100_20150317_001247	You fought hard.{nl}May the Goddess bless you in t
 QUEST_LV_0100_20150317_001248	Let's pay more attention to the safety of our people here.{nl}Where is the maid of Jonas?
 QUEST_LV_0100_20150317_001249	When I focus on the research, I sometimes don't know even when the monsters come.{nl}To think back about that moment, it is still frightening.
 QUEST_LV_0100_20150317_001250	Take a look around you from the next time.{nl}I almost got involved in it.
-QUEST_LV_0100_20150317_001251	I thought I remember almost everything.{nl}I guess I have alzheimer. I can't remember the face of the guy who I used to work with.
+QUEST_LV_0100_20150317_001251 I thought I remembered everything.{nl}I guess I have alzheimers. I can't remember the face of the guy who I used to work with.
 QUEST_LV_0100_20150317_001252	There's a guy who I used to work with.{nl}I just can't remember his face.
 QUEST_LV_0100_20150317_001253	We don't have time to waste here.
 QUEST_LV_0100_20150317_001254	Thanks for helping me last time.{nl}All I have are the research materials. I don't know why the monsters are after them.
 QUEST_LV_0100_20150317_001255	I've done a wrongful thing to Niels.{nl}I remember everything now. I feel embarassed.
 QUEST_LV_0100_20150317_001256	Security Guard
-QUEST_LV_0100_20150317_001257	The artifacts you discover here can't go out from here.{nl}Even if you are the revelator.
-QUEST_LV_0100_20150317_001258	This is the place where lots of scholars are doing their researches so please do not make loud sounds.
+QUEST_LV_0100_20150317_001257	The artifacts you discover here can't leave the premisis.{nl}Even if you are the revelator.
+QUEST_LV_0100_20150317_001258	A lot of scholars are doing their researches here so please try not to disturb the canyon with too much noise.
 QUEST_LV_0100_20150317_001259	When suppliers are lacking, merchants like me are more needed.{nl}That's the way of this world.
 QUEST_LV_0100_20150317_001260	Why are monsters taking these.{nl}At least, it is fortunate that we still have this much materials.
 QUEST_LV_0100_20150317_001261	This is the first time I've been at a dangerous place like this.{nl}This place is so deserted so I have no idea why monsters are here.
@@ -1270,21 +1270,21 @@ QUEST_LV_0100_20150317_001269
 QUEST_LV_0100_20150317_001270	Kevin
 QUEST_LV_0100_20150317_001271	This is a strange place.{nl}Those scholors, and those mercenaries just can't leave this place.{nl}Of course, us too.
 QUEST_LV_0100_20150317_001272	Sculptor Hilda
-QUEST_LV_0100_20150317_001273	Look at these poles.{nl}Aren't they beautiful?
+QUEST_LV_0100_20150317_001273	Look at these ancient poles.{nl}Aren't they beautiful?
 QUEST_LV_0100_20150317_001274	The beauty of these poles make us forget the monsters' scariness.{nl}They are really amazing.
 QUEST_LV_0100_20150317_001275	They are not only beautiful, but they also have writings on them.{nl}Maybe we should read them sometimes.
 QUEST_LV_0100_20150317_001276	The reason why this isolated canyon is beautiful is because it keeps a secret somewhere.
 QUEST_LV_0100_20150317_001277	Our family's first mission has been just achieved.{nl}Now is the start.
 QUEST_LV_0100_20150317_001278	Supply Commander Vio
 QUEST_LV_0100_20150317_001279	Today is quiet.{nl}I am talking about those monsters.
-QUEST_LV_0100_20150317_001280	We are veterans.{nl}After all those years at mercenary, we should not be confused even if we haven't heard anything in years.
+QUEST_LV_0100_20150317_001280	We're veterans.{nl}After all those years as a mercenary, we should be prepared for anything. {nl}Even if we've been inactive for years.
 QUEST_LV_0100_20150317_001281	Mercenary Eta
 QUEST_LV_0100_20150317_001282	I will come back soon so don't worry.{nl}This was an easy thing when I was young.
 QUEST_LV_0100_20150317_001283	How would the commander scold us this time..
 QUEST_LV_0100_20150317_001284	Archeologist Laudi
 QUEST_LV_0100_20150317_001285	The Goddess and the demons.. Zachariel's Mausoleum and the secret of the artifacts...
 QUEST_LV_0100_20150317_001286	Morcus Jonas
-QUEST_LV_0100_20150317_001287	The guy that the old man used to talk alot, is he coming..
+QUEST_LV_0100_20150317_001287	The guy that the old man always mentions, is he ever getting here..?
 QUEST_LV_0100_20150317_001288	The oldman told us.{nl}When you go against your destiny, that also is a part of your destiny.{nl}Maybe the reason why we are trying hard is because that's our destiny.
 QUEST_LV_0100_20150317_001289	How come no one remembers it.{nl}The man with silver hair.. he..
 QUEST_LV_0100_20150317_001290	An unknown event that is being plotted by an unknown person..{nl}This is really scary..
@@ -1298,7 +1298,7 @@ QUEST_LV_0100_20150317_001297	We are about to leave here, what's the matter?{nl}
 QUEST_LV_0100_20150317_001298	We should leave here soon.{nl}No one knows which stone will bring which monsters.{nl}Why is this happening..
 QUEST_LV_0100_20150317_001299	Do you think it makes sense that we should leave because the archeologists are not valuable anymore?{nl}There are artifacts everywhere on this land!!
 QUEST_LV_0100_20150317_001300	I think my guess won't be wrong. Something is happening.{nl}I can't give up.
-QUEST_LV_0100_20150317_001301	The thing I want should be here, but I just can't find a way to find it.{nl}Hmm. What shoud I do.
+QUEST_LV_0100_20150317_001301	The thing I wanted should be around here, but I don't know if I can find it.{nl}Hmm. What shoud I do?
 QUEST_LV_0100_20150317_001302	My heart is breaking to leave a great place like this.{nl}But, we don't have a choice.
 QUEST_LV_0100_20150317_001303	Do you think I am crazy to stay here longer?{nl}I am gonna leave here as quickly as possible. See you next time!
 QUEST_LV_0100_20150317_001304	Historian Cyrenia Odell
@@ -1306,12 +1306,12 @@ QUEST_LV_0100_20150317_001305	This feeling..{nl}Is it the feeling of an historia
 QUEST_LV_0100_20150317_001306	Adventurer Varkis
 QUEST_LV_0100_20150317_001307	Explorer? Of course it is not dangerous. {nl} However, Guchi~ari~tsu when you discover something is guided in a row this day.
 QUEST_LV_0100_20150317_001308	Historian Rexipher
-QUEST_LV_0100_20150317_001309	There's an old saying.{nl}A person who fights against beasts should be careful not to be a beast himself.{nl}When you look at the abyss for a long time, the abyss will also look at you..{nl}
+QUEST_LV_0100_20150317_001309	There's an old saying.{nl}A person who fights against beasts should be careful to not turn into a beast himself.{nl}When you look at the abyss for a long time, the abyss will also look at you..{nl}
 QUEST_LV_0100_20150317_001310	I have a feeling that I would meet you again.{nl}Farewell until then..
 QUEST_LV_0100_20150317_001311	I came here because historians invited me to this place.{nl}They wanted my advice as a stonemason.
 QUEST_LV_0100_20150317_001312	I should have returned quietly after advising those historians.{nl}This is all my fault.
 QUEST_LV_0100_20150317_001313	Liaison Officer Bail
-QUEST_LV_0100_20150317_001314	We are not responsible for the safety of a person who is not registered.{nl}Please go back to a safe place.
+QUEST_LV_0100_20150317_001314	We are not responsible for the safety of an unregistered person.{nl}Please return to a safe place.
 QUEST_LV_0100_20150317_001315	I am sorry, but you are not in the list.
 QUEST_LV_0100_20150317_001316	Historian Colin
 QUEST_LV_0100_20150317_001317	Well, I don't know anything.{nl}Hmm..not at all.
@@ -1327,11 +1327,11 @@ QUEST_LV_0100_20150317_001326	It's okay even if you are not a swordsman.{nl}It's
 QUEST_LV_0100_20150317_001327	The light that Ruklys will leave to you should be used for this chaotic world.{nl}If you only concentrate on killing, you may also be killed.{nl}
 QUEST_LV_0100_20150317_001328	I am looking for a person who will help my research.{nl}All the support for the research has stopped since the research is about the traitor Ruklys.
 QUEST_LV_0100_20150317_001329	Everything is my fault.{nl}Smid is dead.. what should I alone.
-QUEST_LV_0100_20150317_001330	Are there anything valuable here?{nl}Although, I am hired by Raymond.
+QUEST_LV_0100_20150317_001330	Is there anything valuable around here?{nl}I'm working for Raymond.
 QUEST_LV_0100_20150317_001331	Unknown gravestone
 QUEST_LV_0100_20150317_001332	It is not readable now.
 QUEST_LV_0100_20150317_001333	This place is very dangerous.{nl}The scholar told me to stay beside him since it's very dangerous..{nl}But, I just can't stay and do nothing in front of an opportunity to find out the secret of Ruklys.
-QUEST_LV_0100_20150317_001334	That's why.. I am out little far.
+QUEST_LV_0100_20150317_001334	That's why.. I'm a little too far from safety.
 QUEST_LV_0100_20150317_001335	This is amazing! As a scholar, I want to research more!{nl}But, I don't if it's okay to be out here.
 QUEST_LV_0100_20150317_001336	By refining substances, we aim to deliver our spirits to the higher place.{nl}That's Alchemists' untimate goal.
 QUEST_LV_0100_20150317_001337	
@@ -1362,7 +1362,7 @@ QUEST_LV_0100_20150317_001361	My men should have returned by now but there is no
 QUEST_LV_0100_20150317_001362	My men said they are going to the Delon Shelter. {nl} The Golem may appear anytime and yet they are so carefree. 
 QUEST_LV_0100_20150317_001363	Rocktortuga will ambush this area soon. {nl} We must stop it from crossing the barrier. 
 QUEST_LV_0100_20150317_001364	Have you seen baby Poatas? {nl} We better drive them out quickly so that the mother Poatas won't keep showing up. 
-QUEST_LV_0100_20150317_001365	Vubbes have built their base outside the village. {nl} Now that we don't even have troops, {nl}something serious might happen if we don't drive them out of their base. 
+QUEST_LV_0100_20150317_001365	Vubbes have built their base outside the village. {nl} We don't even have troops, {nl} so something serious might happen if we don't drive them out of their base.
 QUEST_LV_0100_20150317_001366	Thank you so much for your bravery. 
 QUEST_LV_0100_20150317_001367	How could I express my gratitude. {nl}I'm sure the Goddess sent you to us.
 QUEST_LV_0100_20150317_001368	This patient told us the Chafer must have appeared. {nl} Can you help us and check on it?
@@ -1425,8 +1425,8 @@ QUEST_LV_0100_20150317_001424	Monstrous plants sprouted up all over and began de
 QUEST_LV_0100_20150317_001425	Enough... Don't ask any more questions. {nl} I don't want to think about it anymore.
 QUEST_LV_0100_20150317_001426	From here, it's Zachariel's Mausoleum excavation site.{nl}You can freely enter, but please be careful not to disturb the research.
 QUEST_LV_0100_20150317_001427	Niels is the one who is in charge of this place.{nl}If you need to ask something, go find Niles at the researchers' camp.
-QUEST_LV_0100_20150317_001428	We don't block anyone's entrance here, but we can't guarantee one's safety.
-QUEST_LV_0100_20150317_001429	The researchers here receive support from the kingdom.{nl}The person in charge is Niels so if you need to ask something, go talk to Niels at the researchers' camp.
+QUEST_LV_0100_20150317_001428	We don't block anyone from passing through, but we can't guarantee anyone's safety.
+QUEST_LV_0100_20150317_001429 From here on, it's Zachariel's Mausoleum excavation site.{nl}You can freely enter, but please be careful to not disturb the research going on in the area.
 QUEST_LV_0100_20150317_001430	The Mausoleum should be protected.{nl}If it can't be protected, it will be destroyed itself.
 QUEST_LV_0100_20150317_001431	There is Fedimian, but there are interesting ruins around If you look it's too old city. {nl} I will have city Toka .. Cathedral cursed Toka tower of the wizard.
 QUEST_LV_0100_20150317_001432	Hundreds of years skip a name to the large witch before it is Agailla Flurry vertical tower. Most of the magic to existing {nl}, either came out from the tower, but it is there is no difference.
@@ -1516,24 +1516,24 @@ QUEST_LV_0100_20150317_001515	Gotta run away from Niels.{nl}We should go see sta
 QUEST_LV_0100_20150317_001516	There was something important..{nl}
 QUEST_LV_0100_20150317_001517	What are you doing here?
 QUEST_LV_0100_20150317_001518	In dotage? That's absurd.{nl}I am okay. You guys are crazy.
-QUEST_LV_0100_20150317_001519	Where did he go?{nl}He's not even normal..
+QUEST_LV_0100_20150317_001519	Where did he go?{nl}He's never on time..
 QUEST_LV_0100_20150317_001520	Instead of fighting, I rather chose to run away.{nl}I think that will help us more for the research.
 QUEST_LV_0100_20150317_001521	Do those monsters like eating research materials or something?{nl}What do you think?
 QUEST_LV_0100_20150317_001522	It may sound cruel.. but, I don't have energy to talk right now.
 QUEST_LV_0100_20150317_001523	I was a hunter before.{nl}Those monsters at canyon are nothing to me.
 QUEST_LV_0100_20150317_001524	Damn.. I look bad.
 QUEST_LV_0100_20150317_001525	It was dangerous, but we got something out of it.{nl}But, missing incidents are scary.
-QUEST_LV_0100_20150317_001526	It's raining hard.{nl}Monsters go more crazy on these days.
+QUEST_LV_0100_20150317_001526	Monsters are a lot crazier on rainy days.
 QUEST_LV_0100_20150317_001527	Who is manipulating this?{nl}I am sure they are after the Mausoleum.
 QUEST_LV_0100_20150317_001528	Manipulating those monsters, that's not a human thing to do.{nl}Are they demons then? Ah..I am too dizzy.{nl}What have I saw?
 QUEST_LV_0100_20150317_001529	I guess I can't sleep tight.
 QUEST_LV_0100_20150317_001530	Can you hear it? hear it? The screams of those who died without any reasons?
-QUEST_LV_0100_20150317_001531	There are criminals who made counterfeits of the tomb's artifacts.{nl}My face is already known, what should I do..
+QUEST_LV_0100_20150317_001531They're searching for criminals who made counterfeits of the tomb's artifacts.{nl}My face is already known and I'm possibly wanted, what should I do..?
 QUEST_LV_0100_20150317_001532	There are many monsters here, but I heard the stone statue is moving near the Mausoleum.{nl}They attack when the king gets distubed in his sleep.
 QUEST_LV_0100_20150317_001533	What do we do? {nl} To add to all the chaos in the village, the Vubbes kidnapped the village people.
 QUEST_LV_0100_20150317_001534	Hunter
 QUEST_LV_0100_20150317_001535	Oh, you're just in time. We need your help. {nl} Monsters stole all the aids and supplies meant for the refugees. {nl}
-QUEST_LV_0100_20150317_001536	Fortunately, we found it quickly.
+QUEST_LV_0100_20150317_001536	Fortunately, we can still retrieve the supplies.
 QUEST_LV_0100_20150317_001537	I'll stay and help the people left here. {nl}You should go ahead and help others who need more help that I do.
 QUEST_LV_0100_20150317_001538	I'm holding it because it looked like it's going to collapse. {nl}We need some stones to do something about it.
 QUEST_LV_0100_20150317_001539	We won't be able to handle it if they siege this place. {nl}How will you stop it then if people are running away even now?
@@ -1561,7 +1561,7 @@ QUEST_LV_0100_20150317_001560	Manager of Coal Mine
 QUEST_LV_0100_20150317_001561	I'm hanging on somehow but I'm losing strength in my arms.
 QUEST_LV_0100_20150317_001562	I should have seen more careful. {nl} It's all my fault.
 QUEST_LV_0100_20150317_001563	I have my roots deep in the hunting area. {nl} Do not worry about me and better look after the others.
-QUEST_LV_0100_20150317_001564	As the Mayor, I can't just leave the village like this. {nl} How indifferent of the Goddesses.
+QUEST_LV_0100_20150317_001564	As the Mayor, I can't just leave the village like this. {nl} Not without the protection of the Goddesses.
 QUEST_LV_0100_20150317_001565	Aren't you the Revelator? The Goddess must have helped us. {nl} In order to enter the mine, you must save a young man name Vaidotas first. {nl}He was kidnapped to the Vubbe outpost. {nl} Please, I ask for your help.
 QUEST_LV_0100_20150317_001566	Kind Owl Sculptor
 QUEST_LV_0100_20150317_001567	There are so many wandering spirits these days.{nl}This really..
@@ -1664,7 +1664,7 @@ QUEST_LV_0100_20150317_001663	Vine Forest used be a beautiful forest once in the
 QUEST_LV_0100_20150317_001664	After Bramble, the demons' lord, came to this forest, it turned out like this.{nl}I can't remember when's the last time that I heard the sounds of birds. I miss the old, beautiful forest.
 QUEST_LV_0100_20150317_001665	I miss the old forest sometimes.{nl}I also miss when I used to listen to the words of Saules Goddess.
 QUEST_LV_0100_20150317_001666	Believer Birgis
-QUEST_LV_0100_20150317_001667	There's nothing that we can't do with our religious faith.{nl}If there is anything that we can't do, then that's because our religious faith is not big enough.
+QUEST_LV_0100_20150317_001667	There's nothing that we can't do with our religious faith.{nl}If there is anything that we can't do, then that's because our religious faith is not strong enough.
 QUEST_LV_0100_20150317_001668	Believer Noyus
 QUEST_LV_0100_20150317_001669	
 QUEST_LV_0100_20150317_001670	Supplies Officer
@@ -1764,7 +1764,7 @@ QUEST_LV_0100_20150317_001763	I request for your guard one more time.{nl}I don't
 QUEST_LV_0100_20150317_001764	It was a good study because of you.{nl}But, I found some traces of magics on them. I feel angry about it.
 QUEST_LV_0100_20150317_001765	Ho. As I expected.{nl}The one I am looking for must be marked.
 QUEST_LV_0100_20150317_001766	I am smarter than you guys think!{nl}Do you think I am gonna get deceived by you guys?
-QUEST_LV_0100_20150317_001767	It is a real honor to be selected as a member of the research team, but I am afraid that I would make a mistake.
+QUEST_LV_0100_20150317_001767 It is a real honor to be selected as a member of the research team, but I am afraid that I will eventually make a mistake..
 QUEST_LV_0100_20150317_001768	The man with silver hair requested me something, what was it?{nl}Was it blond hair?
 QUEST_LV_0100_20150317_001769	Forecastor Owl
 QUEST_LV_0100_20150317_001770	Necroventer has obstructed the road to thorn forest. {nl} you must defeat the Necroventer to go to the forest of thorns.
@@ -1813,8 +1813,8 @@ QUEST_LV_0100_20150317_001812	I can't stand this anymore.{nl}I will defeat it my
 QUEST_LV_0100_20150317_001813	Thanks for saying that.{nl}I will wait at Malkos Felled Area.
 QUEST_LV_0100_20150317_001814	If I was a little richer, then I would have hired a personal mercenary.{nl}It was my mistake to rely on the Goddess' blessing too much.
 QUEST_LV_0100_20150317_001815	I know many people are missing, but no one tries to find them.{nl}They don't even know those people even existed.
-QUEST_LV_0100_20150317_001816	We should make some money when the world is in chaos.{nl}Ah, never mind.
-QUEST_LV_0100_20150317_001817	Farewell to this land when this is over.{nl}I never saw that scary man before.
+QUEST_LV_0100_20150317_001816 We should make some money while the world is in chaos.{nl}Ah, never mind.
+QUEST_LV_0100_20150317_001817	This land will be destroyed when this is all over.{nl}I've never seen anyone as scary as that man.
 QUEST_LV_0100_20150317_001818	No one will believe what I saw.{nl}I learned something interesting from it.
 QUEST_LV_0100_20150317_001819	I will lure Saugas.{nl}Bring me the poison from Woodfung near Alkune Stairway.{nl}And please also bring me the stone with vigor.{nl}
 QUEST_LV_0100_20150317_001820	It's fortunate that you two are okay.{nl}Thanks for recognizing me. May the Goddess bless you.
@@ -1872,7 +1872,7 @@ QUEST_LV_0100_20150317_001871	I will wait here patiently.{nl}No need to hurry si
 QUEST_LV_0100_20150317_001872	I feel reliable.{nl}I will see you at Isvalyta Ruins.
 QUEST_LV_0100_20150317_001873	Explained about the writings on the epitaph.
 QUEST_LV_0100_20150317_001874	Historian Odell
-QUEST_LV_0100_20150317_001875	There was an order to withdraw from here.{nl}I still have many things to research on.
+QUEST_LV_0100_20150317_001875 There was an order to withdraw from this area.{nl}But I still have many things to research.
 QUEST_LV_0100_20150317_001876	Are you looking for a person?{nl}Can you tell me the name of the person you are looking for?
 QUEST_LV_0100_20150317_001877	Are you sure the name is Rexipher?{nl}There's no one with such name on our list.{nl}Ask other people to see if there's someone who knows Rexipher.
 QUEST_LV_0100_20150317_001878	I searched the list and asked other people..{nl}There's no one with the name Rexipher.{nl}I am sorry that I couldn't be a help.
@@ -2051,7 +2051,7 @@ QUEST_LV_0100_20150317_002050	I will write down all the processes for you.{nl}Ho
 QUEST_LV_0100_20150317_002051	Okay, show me that you can stand against those thorny bushes with your religious faith.{nl}You can't say you are the follower when you are weak like now.
 QUEST_LV_0100_20150317_002052	
 QUEST_LV_0100_20150317_002053	I don't know if it's due to thorny bushes or vicious atmosphere, but.. {nl}This forest make people too depressed.
-QUEST_LV_0100_20150317_002054	I believe in myself that one day this forest will be okay again.
+QUEST_LV_0100_20150317_002054	I believe that this forest will return to normal once again.
 QUEST_LV_0100_20150317_002055	Are you okay?{nl}I almost lost my conciousness due to that voice.{nl}Who is he anyways..
 QUEST_LV_0100_20150317_002056	
 QUEST_LV_0100_20150317_002057	The atmosphere is becoming stronger and the priests are getting tired. It's bad.
@@ -2065,7 +2065,7 @@ QUEST_LV_0100_20150317_002064	Believer Onute
 QUEST_LV_0100_20150317_002065	They are waiting for Akon to be summoned.{nl}If you destroy all the magic fields along with Akon, they will be frightened.
 QUEST_LV_0100_20150317_002066	Thanks.{nl}They would not be able to attack us easily now.{nl}
 QUEST_LV_0100_20150317_002067	Thanks.{nl}The believers are distributed to their areas so find them and help them.
-QUEST_LV_0100_20150317_002068	If you don't have any job to do here, then it will be better to leave this place asap.{nl}It's not good for a person who doesn't know how to purify stays here too long.
+QUEST_LV_0100_20150317_002068	If you don't have a job to do here, then it will be better to leave this place asap.{nl}It's not safe for a person who doesn't know how to purify, so don't stay here for too long.
 QUEST_LV_0100_20150317_002069	
 QUEST_LV_0100_20150317_002070	Saule Goddess Quezon evil aura it is not willing to spread in the other forest. {nl} Therefore, thing we're here.
 QUEST_LV_0100_20150317_002071	I am so angry to see those filthy demons walking around.
@@ -2165,10 +2165,10 @@ QUEST_LV_0100_20150317_002164	I haved carved the owls for a long time.{nl}At one
 QUEST_LV_0100_20150317_002165	When I gained my conciousness, a few hundreds of years have passed.
 QUEST_LV_0100_20150317_002166	Scuptors should be careful not to exaggerate their skills.{nl}They should be humble to themselves.
 QUEST_LV_0100_20150317_002167	It is a good sign that you, the revelator came here.{nl}We've been waiting for you for a long time.
-QUEST_LV_0100_20150317_002168	Please come to our village.{nl}Villagers will really like you.{nl}For sure.
+QUEST_LV_0100_20150317_002168	Please come visit our village.{nl}The villagers really like visitors.
 QUEST_LV_0100_20150317_002169	The god guides us to meet together.
 QUEST_LV_0100_20150317_002170	Don't think it's a pain. We received a blessing.
-QUEST_LV_0100_20150317_002171	Trust the god.{nl}We can be together in the tree.
+QUEST_LV_0100_20150317_002171	Trust in the Goddesses.{nl}We can be spiritually tied with the tree.
 QUEST_LV_0100_20150317_002172	We will be saved by being together.{nl}The god had told us to do that.
 QUEST_LV_0100_20150317_002173	Not yet?{nl}Where is the girl?
 QUEST_LV_0100_20150317_002174	I can't use my power since I was deceivied by the demon's trick.{nl}You should find my power to guide you to the revelation.
@@ -2178,9 +2178,9 @@ QUEST_LV_0100_20150317_002177	Bramble must be recovering his power even at this 
 QUEST_LV_0100_20150317_002178	Please be careful of the trick of the observer at Gate Route.
 QUEST_LV_0100_20150317_002179	I am gonna stay here and recover my lost energy.{nl}I don't wanna create chaos in this world so please do not tell my existence to anyone.
 QUEST_LV_0100_20150317_002180	The Mausoleum you should go can be reached only through the portal that I have opened for you.{nl}May the Goddess bless you.
-QUEST_LV_0100_20150317_002181	It seems that rain won't stop. In fact, it rarely stopped.{nl}Do you think this is because of the vicious energy?
+QUEST_LV_0100_20150317_002181	It seems that rain won't stop. In fact, it rarely stops.{nl}Do you think it's caused by this area's vicious energy?
 QUEST_LV_0100_20150317_002182	These thorny bushes just keep growing even after we cut them.{nl}But it's better than doing nothing.
-QUEST_LV_0100_20150317_002183	Even if Bramble gets dissappeared, I think I am gonna stay like this for a while.{nl}Whole forest is covered with thorny bushes. They are so big.
+QUEST_LV_0100_20150317_002183	Even if Bramble dissappears, I think I'm going to be here for a while.{nl}The whole forest is covered with big thorny bushes.
 QUEST_LV_0100_20150317_002184	So, you seem to live up to your reputation. {nl} Our people in the village are just cowards hoping the Goddess will take care of everything.
 QUEST_LV_0100_20150317_002185	But, did you not see the young man of our village? {nl} I told him to ge see how the portal works but I have not heard back since then.
 QUEST_LV_0100_20150317_002186	Thank you. {nl} The portal is in the Nugria Sanctuary.
@@ -2332,10 +2332,10 @@ QUEST_LV_0100_20150317_002331	Cyrenia Odell
 QUEST_LV_0100_20150317_002332	Hmm.. where is this place?{nl}What about Rexipher? Where is he?
 QUEST_LV_0100_20150317_002333	Ah? Woman. I forgot.{nl}I will release you as promised so make her alive.
 QUEST_LV_0100_20150317_002334	Sincerity is our strength. {nl} There will be no problems if you sincerely believe and follow the Goddess.
-QUEST_LV_0100_20150317_002335	I think being confined in there caused my throat and now my throat hurts. {nl} But what about the girl who was together? Where did she go?
+QUEST_LV_0100_20150317_002335	I think being confined for so long gave me a bad sore throat. {nl} Do you know what happened to that other girl that was also captured?
 QUEST_LV_0100_20150317_002336	Aren't you the Revelator who saved us last time? {nl} We were more than glad to see you back then.
-QUEST_LV_0100_20150317_002337	The Goddess must have sent you.{nl}If that's not it.. we already.. It's too scary to think about it.
-QUEST_LV_0100_20150317_002338	It was horrible in captivity. {nl} Vubbes come and smell us.. {nl} and make us dig here and there using pickax..
+QUEST_LV_0100_20150317_002337	The goddess must have sent you.{nl}If you can't save us.. then we already.. It's too scary to think about it.
+QUEST_LV_0100_20150317_002338	Being a captive was a horrible experience. {nl} The Vubbes would often smell us.. {nl} and then force us to work as slaves in the mine..
 QUEST_LV_0100_20150317_002339	Rexipher .. he would have been really Asmodian?
 QUEST_LV_0100_20150317_002340	You saved us. Thank you so much. {nl} But I have a question for you.
 QUEST_LV_0100_20150317_002341	Healing magic. {nl} Can people easily do it?
@@ -3415,7 +3415,7 @@ QUEST_LV_0100_20150317_003414	About the contaminated Land with Magi
 QUEST_LV_0100_20150317_003415	Purifying doll (2)
 QUEST_LV_0100_20150317_003416	Stimulating/ MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003417	Tie tightly
-QUEST_LV_0100_20150317_003418	About the Curse dol
+QUEST_LV_0100_20150317_003418	About the Cursed doll
 QUEST_LV_0100_20150317_003419	Two birds with one stone
 QUEST_LV_0100_20150317_003420	Touching it/SITGROPE_LOOP/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003421	Release Goddess Saule (1)
@@ -5635,7 +5635,7 @@ QUEST_LV_0100_20150317_005634	Destroy the spell suppressor that Helga Sercle ins
 QUEST_LV_0100_20150317_005635	Destroy all the spell suppressors that Helga Sercle installed around Maze Tower 5th Floor
 QUEST_LV_0100_20150317_005636	Defeat Helga Sercle that invaded the Maze Tower
 QUEST_LV_0100_20150317_005637	Talk to guard Gilbert
-QUEST_LV_0100_20150317_005638	
+QUEST_LV_0100_20150317_005638	`x
 QUEST_LV_0100_20150317_005639	Get rid of Grummer and Seedmia
 QUEST_LV_0100_20150317_005640	Gilbert wants you to get rid of the monsters that destroyed the cable car. Get rid of them in Cholas Crooked Road and tell Gilbert about it. 
 QUEST_LV_0100_20150317_005641	Scolded and Grummer and Seedmia. Tell Gilbert you taught them a lesson. 
@@ -6422,7 +6422,7 @@ QUEST_LV_0100_20150323_006421	There is a way to stop it but only you can do it. 
 QUEST_LV_0100_20150323_006422	You need to use the cable car to go from Srautas to Leaf Veil Plateau. {nl}I heard people used to hang baskets on ropes in the past. {nl}Well the cable cars are scary enough for me. 
 QUEST_LV_0100_20150323_006423	I came to protect the diving land from the demons. {nl}I heard the Paladin Master is also in Gele Plateau. It surely must be a big problem. {nl}
 QUEST_LV_0100_20150323_006424	I'm worried about my brother in Nefritas Cliff. {nl}I hope nothing happens to him.{nl}
-QUEST_LV_0100_20150323_006425	We have to stick with the dolls left. {nl}Everyone's lives are at stake in Nefritas Cliff and I can't complain about this, right?
+QUEST_LV_0100_20150323_006425	We have to make do with the dolls we have left. {nl}Everyone's lives are at stake in Nefritas Cliff so I can't complain about this, right?
 QUEST_LV_0100_20150323_006426	And if you're talking about Rukas Plateau, that place isn't worthy of research so it's been a while since we pulled out. 
 QUEST_LV_0100_20150323_006427	Understanding the root of everything becomes the power of Elementalist. {nl}Wind, Water, Fire, Earth. We pull the strongest powers from the simplest forms. 
 QUEST_LV_0100_20150323_006428	Bring the Crystal and find students of Gustas in Ramstis Ridge. {nl}They will teach you about the seal. 
@@ -6438,7 +6438,7 @@ QUEST_LV_0100_20150323_006437	As you know, I may be an aspiring Elementalist? {n
 QUEST_LV_0100_20150323_006438	Done. {nl}Do you know about the five necklaces of Mayvern?{nl}
 QUEST_LV_0100_20150323_006439	It was created to remind people of the 5 sins. {nl}Though Naktis made it look like a curse on the Pilgrim's Way.{nl}
 QUEST_LV_0100_20150323_006440	Looks like the necklace belongs to you. {nl}If it wasn't for you, teachings of Mayvern would have been left as a curse.
-QUEST_LV_0100_20150323_006441	Actually, I want to go to Kvailas Forest. {nl}I want to see the source of evel with my two eyes. 
+QUEST_LV_0100_20150323_006441	I actually want to go to Kvailas Forest. {nl}I want to see the source of evil with my own two eyes.
 QUEST_LV_0100_20150323_006442	Thank you. The blacksmith in Klaipeda sells the tools. {nl}But before that, stones in Stele Road are known for their fine quality so I ask of your favor. 
 QUEST_LV_0100_20150323_006443	Done. Please place this in the entrance of Underground Mausoleum in Zachariel Crossroad. {nl}Will this be enough commfort.
 QUEST_LV_0100_20150323_006444	Hmm. You're really good as they say. {nl}Rolandas is waiting for you in Akmens Ridge.
@@ -6454,7 +6454,7 @@ QUEST_LV_0100_20150323_006453	When you have all materials ready, combine it in E
 QUEST_LV_0100_20150323_006454	The evil force was first felt in Kvailas Forest. {nl}The force was very strong so it will remain this way for a while even if you get rid of Bramble.
 QUEST_LV_0100_20150323_006455	The evil force of Kvailas Forest is becomeing stronger but our followers are becoming weak. {nl}I hope you can help us. {nl}
 QUEST_LV_0100_20150323_006456	Maybe the source of evil of Kavilas Forest has become the forest itself. {nl}Though I hope this is just an idel fear. 
-QUEST_LV_0100_20150323_006457	It will come to and end when the evil force deep inside Kavailas Forest is removed. {nl}It's a pity everyone is chasing only what's right in front of them.
+QUEST_LV_0100_20150323_006457	It will all come to an end when the evil force deep inside Kavailas Forest is removed. {nl}It's a pity everyone is chasing for only what's right in front of them.
 QUEST_LV_0100_20150323_006458	Kvailas Forest is the worst. {nl}The evil force is at high and even your lives are at stake. 
 QUEST_LV_0100_20150323_006459	I miss my family in Cobalt Forest. {nl}And.. I want to apologize to my brother for the fight we had.
 QUEST_LV_0100_20150323_006460	I remember singing and playing the the streams of Cobalt Forest
@@ -6663,7 +6663,7 @@ QUEST_LV_0100_20150414_006662	We'll focus on finding Clymen from now. {nl}Defeat
 QUEST_LV_0100_20150414_006663	I can feel Clymen in Ishpirki Entrance. {nl}Hurry and get rid of it.
 QUEST_LV_0100_20150414_006664	Read the epitaph.
 QUEST_LV_0100_20150414_006665	It's the last epitaph.
-QUEST_LV_0100_20150414_006666	Let me introduce to you. This friend here is Wreath. {nl}Do you like birds? If you don't you can never be a Falconer.
+QUEST_LV_0100_20150414_006666	Let me introduce to you, my friend, Wreath. {nl}Do you like birds? If you don't you can never be a Falconer.
 QUEST_LV_0100_20150414_006667	Recording/ABSORB/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150414_006668	Notice/!/Ginklas appeared after you recorded!{nl}Defeat Ginklas!#5
 QUEST_LV_0100_20150414_006669	Collecting stones from the pillar/#SITGROPESET2/0/TRACK_AFTER/None
@@ -6865,15 +6865,15 @@ QUEST_LV_0100_20150428_006864	In order to go to Demons' Prision, you should go p
 QUEST_LV_0100_20150511_006865	Anyways, my guess is that those demons wake up again and control those Vubbes.(nl)The dream you had and the legend of Cunningham.. they may forecast something big.{nl}
 QUEST_LV_0100_20150511_006866	It's good to find the reason for the increase in the number of monsters in this forest.{nl}But, I am more worried about supplies being stopped to the mine village.
 QUEST_LV_0100_20150511_006867	Vubbe Warrior is hiding deep inside the felled area.{nl}I know that the order has come, but it may be safer to wait for the reinforcement here.
-QUEST_LV_0100_20150511_006868	If you face us as enemies, you should be careful not to lose your legs.{nl}Swords will come out from the lower part of the shields.{nl}
-QUEST_LV_0100_20150511_006869	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of defeating them all at once, it will be better to learn my skills.
+QUEST_LV_0100_20150511_006868	If you faced us as enemies, you should be careful to not lose your legs.{nl}Swords will come out from the lower part of the shields.{nl}
+QUEST_LV_0100_20150511_006869	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of entering combat at once, it will be better to hone my skills first.
 QUEST_LV_0100_20150511_006870	I think, these words are indicating a very dangerous monster.{nl}Don't you think we should eliminate it?
 QUEST_LV_0100_20150511_006871	Ah, if you don't have confidence, you should be caught easily.{nl}Before you use the scroll, it is important to gain some confidence by fighting against the demons.
 QUEST_LV_0100_20150511_006872	I feel happy to see them being defeated.{nl}But, I think i need more research on it.
 QUEST_LV_0100_20150511_006873	You should be ready before you take the essence of light to the entrance.{nl}It could attract a powerful monster.
 QUEST_LV_0100_20150511_006874	I feel relieved to have you beside.{nl}I feel that the fact that Laima has chosen you is very fortunate. 
 QUEST_LV_0100_20150511_006875	Explosion, that was too dangerous.{nl}Let's find a safer way to destroy it.
-QUEST_LV_0100_20150511_006876	There are many things to protect so we should not irritate those demons and defeat them quietly.{nl}I feel so relieved to have you, revelator.
+QUEST_LV_0100_20150511_006876	There are many things to protect so we should not attract too much attention from the demons.{nl}I feel so relieved to have you here, revelator.
 QUEST_LV_0100_20150511_006877	There are rumors about Golems appearing so don't go far too deep. {nl} It will be safer to take the bigger roads where there are less monsters or just head straight to Klaipeda.
 QUEST_LV_0100_20150511_006878	You are easily exposed to enemies' attacks when you are using a bow.{nl}So my strategy is to use anything such as a shield or a stone to protect myself.
 QUEST_LV_0100_20150511_006879	Most of them are already in my head, but that is a really important material.{nl}It contains information on how to enter the Mausoleum and such.
@@ -6925,15 +6925,15 @@ QUEST_LV_0100_20150714_006924	If you are going to help me, please also take care
 QUEST_LV_0100_20150714_006925	When you defeat Chupakabras, the gigantic gray Chupakabra would appear.{nl}Okay, then I am counting on you.
 QUEST_LV_0100_20150714_006926	I can ask for my money back for the others, but that toolbox. {nl}I lost the spirit of stonemason from Moas...
 QUEST_LV_0100_20150714_006927	I thank you in the name of the Goddesses!{nl}We should first eliminate those filthy Cockatries that are spreading the disease.
-QUEST_LV_0100_20150714_006928	You better eliminate the spirits that are pulled quickly if possible.{nl}If they resurrect again, I would be scary.
-QUEST_LV_0100_20150714_006929	The demons' attacks are quite aggressive.{nl}If we could somehow defeat Glizardon, I think they would be discouraged.
+QUEST_LV_0100_20150714_006928	You better eliminate the spirits that are pulled in as quickly as possible.{nl}We wouldn't want them to ressurect again.
+QUEST_LV_0100_20150714_006929	The demons' attacks are quite aggressive.{nl}If we can defeat Glizardon, we can possibly lower their morale.
 QUEST_LV_0100_20150714_006930	I want to request to you to defeat Pawndel and Pawnd.{nl}They are demon sisters and they give us headaches.
 QUEST_LV_0100_20150714_006931	Activate Malda Altar and the demons nearby it will be sealed. {nl}When you defeat those demons, the altar would absorb the power.
 QUEST_LV_0100_20150714_006932	Let's check the status while we defeat the monsters with the Jewel of Prominence.
 QUEST_LV_0100_20150714_006933	I can't tell my name. {nl}Please get rid of the observers and unleash the seal on me.{nl}
 QUEST_LV_0100_20150714_006934	My sould is shredded and trapped in the seal. {nl}Get rid of the Experimental Slime that's guarding it and help me get released.
 QUEST_LV_0100_20150714_006935	The Holy Arc that had me inside is broken and the observers obtained those pieces.{nl}Please defeat them and complete the Holy Arc.
-QUEST_LV_0100_20150714_006936	Our guards love to fight {nl}Pantos were not this reckless before. {nl}I wonder if we should be like this when the Demons waiting to march in.
+QUEST_LV_0100_20150714_006936	The Pantos are a lot more reckless now, giving our guards an edge. {nl}I wonder if we'll be more organized before the Demons march in.
 QUEST_LV_0100_20150714_006937	If possible, I want you to defeat Carnivore as well.{nl}It is polluted with the demonic energy and I can't stand it anymore.
 QUEST_LV_0100_20150714_006938	Tools for stonemaisons? {nl}10,000 Sivers will do.{nl}{nl}
 QUEST_LV_0100_20150714_006939	Welcome.

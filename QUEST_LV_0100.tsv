@@ -494,7 +494,7 @@ QUEST_LV_0100_20150317_000493	After the Goddesses disappeared, the capital was d
 QUEST_LV_0100_20150317_000494	Rodelero Master
 QUEST_LV_0100_20150317_000495	
 QUEST_LV_0100_20150317_000496	Squire Master
-QUEST_LV_0100_20150317_000497	We are in chaos nowadays, but we used to live in honorable times before.{nl}Well.. they are all in the past now.
+QUEST_LV_0100_20150317_000497	Times are chaotic nowadays, but we used to live in peaceful times. {nl}Well.. that's all in the past now.
 QUEST_LV_0100_20150317_000498	Wizard Master
 QUEST_LV_0100_20150317_000499	No matter how much magic talent you have, it is useless unless you train hard.
 QUEST_LV_0100_20150317_000500	You must be brave in order to protect the kingdom.{nl}But for that bravery to be different from recklessness, your skills should be good enough.
@@ -548,8 +548,8 @@ QUEST_LV_0100_20150317_000547	There are people who are after Zachariel's inherit
 QUEST_LV_0100_20150317_000548	Because of that, a few disciples have died.{nl}But, that's strange. It seems that it never happened.
 QUEST_LV_0100_20150317_000549	There were Gustas and my senior.{nl}Then am I the youngest? No..
 QUEST_LV_0100_20150317_000550	Gustas is proud to protect the inheritance of Zachariel.{nl}I wonder what he's going to do after he hands over that job.
-QUEST_LV_0100_20150317_000551	How many things are hiding in this canyon?{nl}More of king's inheritance will be here right?
-QUEST_LV_0100_20150317_000552	According to the old records, the king erased the stonemason's memories using magic to protect the Mausoleum.{nl}I think it's amazing that he erased only those memories.
+QUEST_LV_0100_20150317_000551	How many things are hidden in this canyon?{nl}Do you think it'll be possible to find the king's inheritance?
+QUEST_LV_0100_20150317_000552	According to the old records, the king erased the stonemason's memories using magic to protect the Mausoleum.{nl}I think it's amazing that he erased only those specific memories.
 QUEST_LV_0100_20150317_000553	Liaison Official Nian
 QUEST_LV_0100_20150317_000554	You saw it right? That's why I told you not to touch it.{nl}Because of this, we received an order to withdraw from this place.{nl}
 QUEST_LV_0100_20150317_000555	Well, if I am to be involved in this, can you at least do me a favor?{nl}Tell Adel at Researchers' Camp to watch out for these kind of stones.
@@ -564,7 +564,7 @@ QUEST_LV_0100_20150317_000563	I'm looking for a certain unique stone pole, but a
 QUEST_LV_0100_20150317_000564	I know that we received an order to withdraw, but know this,{nl}the reward will be well worth your time. You won't regret it.
 QUEST_LV_0100_20150317_000565	Okay. First collect amulets from Hogmas.{nl}After that, put those amulets on the stone pole at the bottom of Geltonas Plauteau.
 QUEST_LV_0100_20150317_000566	We have to get out of here quickly before something bigger, and worse, finds us.{nl}Well, so far so good, but coming in so far is not without it's dangers.{nl}I hope the kingdom pays more attention to rescuing people than they do to these kinds of experiments.
-QUEST_LV_0100_20150317_000567	Are you asking me how come a technician is at a place like this?{nl}As an advisior, of course. {nl} You'll need a technician like me to find out how this gigantic structure stood still for hundreds of years.
+QUEST_LV_0100_20150317_000567	Are you asking me why a technician would come to place like this?{nl}As an advisior, of course. {nl} You'll need a technician like me to find out how this gigantic structure stood still for hundreds of years.
 QUEST_LV_0100_20150317_000568	Looking at equations is one thing, but being out here...{nl}We will find the true nature of this place soon enough.
 QUEST_LV_0100_20150317_000569	According to this map, the thing we are looking for is on the Stone Pole Hill.{nl}Okay then. Would you please make a rubber copy of it?{nl}{nl}
 QUEST_LV_0100_20150317_000570	It would be best if I went there.{nl}Too bad my body isn't what it used to be though.
@@ -830,10 +830,10 @@ QUEST_LV_0100_20150317_000829	Please put those sacrifices in the jar at Dumbal P
 QUEST_LV_0100_20150317_000830	It depends on how one uses necromancy.{nl}It could be good or bad depending on what Necromancer has in his mind.
 QUEST_LV_0100_20150317_000831	The experiment failed? I am so sorry.{nl}I should research more here to find out what went wrong.
 QUEST_LV_0100_20150317_000832	Monument of Lydia Schaffen
-QUEST_LV_0100_20150317_000833	My name is Lydia Schaffen.{nl}To endure deep and strong sadness from now, I am going to tell my truth about Ruklys on this land.
+QUEST_LV_0100_20150317_000833	My name is Lydia Schaffen.{nl}To endure deep and strong sadness, I am going to reveal the truth about Ruklys, the man buried on this land.
 QUEST_LV_0100_20150317_000834	There are no more wood coals besides the ones you have so don't use them too much.
 QUEST_LV_0100_20150317_000835	I didn't know she was the alumnus to the traitor, Ruklys.{nl}Damn. I almost used all the wood coals.
-QUEST_LV_0100_20150317_000836	Eventually, Ruklys failed.{nl}He was destroyed by the ones who were jealous of him.{nl}He left to the Goddess from my hands.
+QUEST_LV_0100_20150317_000836	Eventually, Ruklys failed.{nl}He was destroyed by the ones who envied him.{nl}Then, he left to the Goddess from my hands.
 QUEST_LV_0100_20150317_000837	What was Lydia Schaffen's relationship with Ruklys?{nl}I am not smart enough to understand.
 QUEST_LV_0100_20150317_000838	I leave Ruklys on this land with my regrets and tears.{nl}If there's someone who wants to continue his will, I want to leave my secret on this gravestone.{nl}I will summarize the long writings here.
 QUEST_LV_0100_20150317_000839	The stage that Ruklys had reached was astonishing.{nl}But, his noble mission was too difficult to be accomplished on this land.
@@ -1190,13 +1190,13 @@ QUEST_LV_0100_20150317_001189	You're a brave guy. {nl} There are five clues in 1
 QUEST_LV_0100_20150317_001190	Found it. {nl} Then I'll start from now.
 QUEST_LV_0100_20150317_001191	I'll give you a riddle. {nl} It is something you must do, have done most, and will have to do. {nl} Show your answer in action.
 QUEST_LV_0100_20150317_001192	Good work. {nl} You will be rewarded with proper compensation.
-QUEST_LV_0100_20150317_001193	What do you think are the factors that affect outcomes?{nl}If you just focus on attacking, then you may receive more damages.
-QUEST_LV_0100_20150317_001194	If you ask me what is the strongest weapon, I will answer that is is faith.{nl}A colleague that you can truly rely on.
-QUEST_LV_0100_20150317_001195	Thaumaturge does not get stronger by learning.{nl}You should learn it yourself.
+QUEST_LV_0100_20150317_001193	What factors affect a battle outcome?{nl}If you focus only on attacking, then you may receive more damage.
+QUEST_LV_0100_20150317_001194	If you were to ask me what the strongest weapon is, I'd say faith. Faith is the only comrade you can truly depend on.
+QUEST_LV_0100_20150317_001195	A Thaumaturge does not get stronger by just learning.{nl}You have to experience it for yourself.
 QUEST_LV_0100_20150317_001196	
 QUEST_LV_0100_20150317_001197	Stealth, detection, trap installation. {nl} Scouts are masters of searching and monitoring.
 QUEST_LV_0100_20150317_001198	We Sadhu are always on an eternal journey. {nl}When our journeys in this world come to an end, we'll still continue in the afterlife.
-QUEST_LV_0100_20150317_001199	Nothing is unfair in real battles.{nl}You've gotta do anything to win. Don't you think so?
+QUEST_LV_0100_20150317_001199	Nothing is unfair in a real battle.{nl}You've gotta do anything to win. Don't you think so?
 QUEST_LV_0100_20150317_001200	We should find it quickly..{nl}It may be an end to Macians' Tower.
 QUEST_LV_0100_20150317_001201	I don't mind people learning my skills if I receive reasonable rewards.{nl}In truth, I will welcome them.{nl}Although, I won't chase after them to learn them from me.
 QUEST_LV_0100_20150317_001202	But, well. {nl}Asking me to teach in the military is just too much ..{nl}Could it be another problem?
@@ -1248,14 +1248,14 @@ QUEST_LV_0100_20150317_001247	You fought hard.{nl}May the Goddess bless you in t
 QUEST_LV_0100_20150317_001248	Let's pay more attention to the safety of our people here.{nl}Where is the maid of Jonas?
 QUEST_LV_0100_20150317_001249	When I focus on the research, I sometimes don't know even when the monsters come.{nl}To think back about that moment, it is still frightening.
 QUEST_LV_0100_20150317_001250	Take a look around you from the next time.{nl}I almost got involved in it.
-QUEST_LV_0100_20150317_001251	I thought I remember almost everything.{nl}I guess I have alzheimer. I can't remember the face of the guy who I used to work with.
+QUEST_LV_0100_20150317_001251	I thought I remembered everything.{nl}I guess I have alzheimer because I can't remember the face of the guy who I used to work with.
 QUEST_LV_0100_20150317_001252	There's a guy who I used to work with.{nl}I just can't remember his face.
 QUEST_LV_0100_20150317_001253	We don't have time to waste here.
 QUEST_LV_0100_20150317_001254	Thanks for helping me last time.{nl}All I have are the research materials. I don't know why the monsters are after them.
 QUEST_LV_0100_20150317_001255	I've done a wrongful thing to Niels.{nl}I remember everything now. I feel embarassed.
 QUEST_LV_0100_20150317_001256	Security Guard
-QUEST_LV_0100_20150317_001257	The artifacts you discover here can't go out from here.{nl}Even if you are the revelator.
-QUEST_LV_0100_20150317_001258	This is the place where lots of scholars are doing their researches so please do not make loud sounds.
+QUEST_LV_0100_20150317_001257	The artifacts you discover here can't leave the premisis.{nl}Even if you are the revelator.
+QUEST_LV_0100_20150317_001258	A lot of scholars are doing their researches here so please try not to disturb the canyon with too much noise.
 QUEST_LV_0100_20150317_001259	When suppliers are lacking, merchants like me are more needed.{nl}That's the way of this world.
 QUEST_LV_0100_20150317_001260	Why are monsters taking these.{nl}At least, it is fortunate that we still have this much materials.
 QUEST_LV_0100_20150317_001261	This is the first time I've been at a dangerous place like this.{nl}This place is so deserted so I have no idea why monsters are here.
@@ -1270,21 +1270,21 @@ QUEST_LV_0100_20150317_001269
 QUEST_LV_0100_20150317_001270	Kevin
 QUEST_LV_0100_20150317_001271	This is a strange place.{nl}Those scholors, and those mercenaries just can't leave this place.{nl}Of course, us too.
 QUEST_LV_0100_20150317_001272	Sculptor Hilda
-QUEST_LV_0100_20150317_001273	Look at these poles.{nl}Aren't they beautiful?
+QUEST_LV_0100_20150317_001273	Look at these ancient poles.{nl}Aren't they beautiful?
 QUEST_LV_0100_20150317_001274	The beauty of these poles make us forget the monsters' scariness.{nl}They are really amazing.
 QUEST_LV_0100_20150317_001275	They are not only beautiful, but they also have writings on them.{nl}Maybe we should read them sometimes.
 QUEST_LV_0100_20150317_001276	The reason why this isolated canyon is beautiful is because it keeps a secret somewhere.
 QUEST_LV_0100_20150317_001277	Our family's first mission has been just achieved.{nl}Now is the start.
 QUEST_LV_0100_20150317_001278	Supply Commander Vio
 QUEST_LV_0100_20150317_001279	Today is quiet.{nl}I am talking about those monsters.
-QUEST_LV_0100_20150317_001280	We are veterans.{nl}After all those years at mercenary, we should not be confused even if we haven't heard anything in years.
+QUEST_LV_0100_20150317_001280	We're veterans.{nl}After all those years as a mercenary, we should be prepared for everything. {nl}Even if we've been inactive for years.
 QUEST_LV_0100_20150317_001281	Mercenary Eta
 QUEST_LV_0100_20150317_001282	I will come back soon so don't worry.{nl}This was an easy thing when I was young.
 QUEST_LV_0100_20150317_001283	How would the commander scold us this time..
 QUEST_LV_0100_20150317_001284	Archeologist Laudi
 QUEST_LV_0100_20150317_001285	The Goddess and the demons.. Zachariel's Mausoleum and the secret of the artifacts...
 QUEST_LV_0100_20150317_001286	Morcus Jonas
-QUEST_LV_0100_20150317_001287	The guy that the old man used to talk alot, is he coming..
+QUEST_LV_0100_20150317_001287	The guy that the old man always mentions, is he ever getting here..?
 QUEST_LV_0100_20150317_001288	The oldman told us.{nl}When you go against your destiny, that also is a part of your destiny.{nl}Maybe the reason why we are trying hard is because that's our destiny.
 QUEST_LV_0100_20150317_001289	How come no one remembers it.{nl}The man with silver hair.. he..
 QUEST_LV_0100_20150317_001290	An unknown event that is being plotted by an unknown person..{nl}This is really scary..
@@ -1298,7 +1298,7 @@ QUEST_LV_0100_20150317_001297	We are about to leave here, what's the matter?{nl}
 QUEST_LV_0100_20150317_001298	We should leave here soon.{nl}No one knows which stone will bring which monsters.{nl}Why is this happening..
 QUEST_LV_0100_20150317_001299	Do you think it makes sense that we should leave because the archeologists are not valuable anymore?{nl}There are artifacts everywhere on this land!!
 QUEST_LV_0100_20150317_001300	I think my guess won't be wrong. Something is happening.{nl}I can't give up.
-QUEST_LV_0100_20150317_001301	The thing I want should be here, but I just can't find a way to find it.{nl}Hmm. What shoud I do.
+QUEST_LV_0100_20150317_001301	The thing I wanted should be around here, but I don't know if I can find it.{nl}Hmm. What shoud I do?
 QUEST_LV_0100_20150317_001302	My heart is breaking to leave a great place like this.{nl}But, we don't have a choice.
 QUEST_LV_0100_20150317_001303	Do you think I am crazy to stay here longer?{nl}I am gonna leave here as quickly as possible. See you next time!
 QUEST_LV_0100_20150317_001304	Historian Cyrenia Odell
@@ -1306,12 +1306,12 @@ QUEST_LV_0100_20150317_001305	This feeling..{nl}Is it the feeling of an historia
 QUEST_LV_0100_20150317_001306	Adventurer Varkis
 QUEST_LV_0100_20150317_001307	Explorer? Of course it is not dangerous. {nl} However, Guchi~ari~tsu when you discover something is guided in a row this day.
 QUEST_LV_0100_20150317_001308	Historian Rexipher
-QUEST_LV_0100_20150317_001309	There's an old saying.{nl}A person who fights against beasts should be careful not to be a beast himself.{nl}When you look at the abyss for a long time, the abyss will also look at you..{nl}
+QUEST_LV_0100_20150317_001309	There's an old saying.{nl}A person who fights against beasts should be careful to not turn into a beast himself.{nl}When you look at the abyss for a long time, the abyss will also look at you..{nl}
 QUEST_LV_0100_20150317_001310	I have a feeling that I would meet you again.{nl}Farewell until then..
 QUEST_LV_0100_20150317_001311	I came here because historians invited me to this place.{nl}They wanted my advice as a stonemason.
 QUEST_LV_0100_20150317_001312	I should have returned quietly after advising those historians.{nl}This is all my fault.
 QUEST_LV_0100_20150317_001313	Liaison Officer Bail
-QUEST_LV_0100_20150317_001314	We are not responsible for the safety of a person who is not registered.{nl}Please go back to a safe place.
+QUEST_LV_0100_20150317_001314	We are not responsible for the safety of an unregistered person.{nl}Please return to a safe place.
 QUEST_LV_0100_20150317_001315	I am sorry, but you are not in the list.
 QUEST_LV_0100_20150317_001316	Historian Colin
 QUEST_LV_0100_20150317_001317	Well, I don't know anything.{nl}Hmm..not at all.
@@ -1331,7 +1331,7 @@ QUEST_LV_0100_20150317_001330	Are there anything valuable here?{nl}Although, I a
 QUEST_LV_0100_20150317_001331	Unknown gravestone
 QUEST_LV_0100_20150317_001332	It is not readable now.
 QUEST_LV_0100_20150317_001333	This place is very dangerous.{nl}The scholar told me to stay beside him since it's very dangerous..{nl}But, I just can't stay and do nothing in front of an opportunity to find out the secret of Ruklys.
-QUEST_LV_0100_20150317_001334	That's why.. I am out little far.
+QUEST_LV_0100_20150317_001334	That's why.. I'm a little too far from safety.
 QUEST_LV_0100_20150317_001335	This is amazing! As a scholar, I want to research more!{nl}But, I don't if it's okay to be out here.
 QUEST_LV_0100_20150317_001336	By refining substances, we aim to deliver our spirits to the higher place.{nl}That's Alchemists' untimate goal.
 QUEST_LV_0100_20150317_001337	
@@ -1339,7 +1339,7 @@ QUEST_LV_0100_20150317_001338	Are you going to defeat Netherbovines? {nl}Nice. I
 QUEST_LV_0100_20150317_001339	The magic to control time is the essence of all magics.{nl}Agailla Flurry told me.
 QUEST_LV_0100_20150317_001340	
 QUEST_LV_0100_20150317_001341	I heard Nederbovines are going nuts outside Fedimian.{nl}As a person undergoing training, I am ashamed that I can't go out and fight.
-QUEST_LV_0100_20150317_001342	Don't say poison is unfair.{nl}You gotta do anything to survive. You can't live out this world when you just want to be fair.
+QUEST_LV_0100_20150317_001342	Don't think of poison as unfair.{nl}You gotta do anything to survive. You'll find anything but fair in this world.
 QUEST_LV_0100_20150317_001343	Are you going out to defeat Nederbovines outside Fedimian?{nl}If it weren't you, I would have fought.{nl}Good luck.
 QUEST_LV_0100_20150317_001344	Even after this beautiful city got destroyed, there are still many threats.{nl}I can go out and fight, but.. I won't.{nl}There are many people out there who will fight without any rewards.{nl}
 QUEST_LV_0100_20150317_001345	Nederbovines.. It is fortunate that we have some to fight against them.
@@ -1423,9 +1423,9 @@ QUEST_LV_0100_20150317_001422	Everything happened so fast, and nobody knew what 
 QUEST_LV_0100_20150317_001423	The destruction of the capital was just the beginning. {nl} Medis Diena was simply a prelude to the catastrophes coming ahead. {nl}
 QUEST_LV_0100_20150317_001424	Monstrous plants sprouted up all over and began devouring people.{nl} Everyone started running, but before I knew it I was the only person left.{nl}
 QUEST_LV_0100_20150317_001425	Enough... Don't ask any more questions. {nl} I don't want to think about it anymore.
-QUEST_LV_0100_20150317_001426	From here, it's Zachariel's Mausoleum excavation site.{nl}You can freely enter, but please be careful not to disturb the research.
+QUEST_LV_0100_20150317_001426 From here on, it's Zachariel's Mausoleum excavation site.{nl}You can freely enter, but please be careful to not disturb the research going on in the area.
 QUEST_LV_0100_20150317_001427	Niels is the one who is in charge of this place.{nl}If you need to ask something, go find Niles at the researchers' camp.
-QUEST_LV_0100_20150317_001428	We don't block anyone's entrance here, but we can't guarantee one's safety.
+QUEST_LV_0100_20150317_001428	We don't block anyone from passing through, but we can't guarantee anyone's safety.
 QUEST_LV_0100_20150317_001429	The researchers here receive support from the kingdom.{nl}The person in charge is Niels so if you need to ask something, go talk to Niels at the researchers' camp.
 QUEST_LV_0100_20150317_001430	The Mausoleum should be protected.{nl}If it can't be protected, it will be destroyed itself.
 QUEST_LV_0100_20150317_001431	There is Fedimian, but there are interesting ruins around If you look it's too old city. {nl} I will have city Toka .. Cathedral cursed Toka tower of the wizard.
@@ -1516,19 +1516,19 @@ QUEST_LV_0100_20150317_001515	Gotta run away from Niels.{nl}We should go see sta
 QUEST_LV_0100_20150317_001516	There was something important..{nl}
 QUEST_LV_0100_20150317_001517	What are you doing here?
 QUEST_LV_0100_20150317_001518	In dotage? That's absurd.{nl}I am okay. You guys are crazy.
-QUEST_LV_0100_20150317_001519	Where did he go?{nl}He's not even normal..
+QUEST_LV_0100_20150317_001519	Where did he go?{nl}He's never on time...
 QUEST_LV_0100_20150317_001520	Instead of fighting, I rather chose to run away.{nl}I think that will help us more for the research.
 QUEST_LV_0100_20150317_001521	Do those monsters like eating research materials or something?{nl}What do you think?
 QUEST_LV_0100_20150317_001522	It may sound cruel.. but, I don't have energy to talk right now.
 QUEST_LV_0100_20150317_001523	I was a hunter before.{nl}Those monsters at canyon are nothing to me.
 QUEST_LV_0100_20150317_001524	Damn.. I look bad.
 QUEST_LV_0100_20150317_001525	It was dangerous, but we got something out of it.{nl}But, missing incidents are scary.
-QUEST_LV_0100_20150317_001526	It's raining hard.{nl}Monsters go more crazy on these days.
+QUEST_LV_0100_20150317_001526	Monsters are a lot crazier on rainy days.
 QUEST_LV_0100_20150317_001527	Who is manipulating this?{nl}I am sure they are after the Mausoleum.
 QUEST_LV_0100_20150317_001528	Manipulating those monsters, that's not a human thing to do.{nl}Are they demons then? Ah..I am too dizzy.{nl}What have I saw?
 QUEST_LV_0100_20150317_001529	I guess I can't sleep tight.
 QUEST_LV_0100_20150317_001530	Can you hear it? hear it? The screams of those who died without any reasons?
-QUEST_LV_0100_20150317_001531	There are criminals who made counterfeits of the tomb's artifacts.{nl}My face is already known, what should I do..
+QUEST_LV_0100_20150317_001531	They're searching for criminals who made counterfeits of the tomb's artifacts.{nl}My face is already known and I'm possibly wanted, what should I do..?
 QUEST_LV_0100_20150317_001532	There are many monsters here, but I heard the stone statue is moving near the Mausoleum.{nl}They attack when the king gets distubed in his sleep.
 QUEST_LV_0100_20150317_001533	What do we do? {nl} To add to all the chaos in the village, the Vubbes kidnapped the village people.
 QUEST_LV_0100_20150317_001534	Hunter
@@ -1764,7 +1764,7 @@ QUEST_LV_0100_20150317_001763	I request for your guard one more time.{nl}I don't
 QUEST_LV_0100_20150317_001764	It was a good study because of you.{nl}But, I found some traces of magics on them. I feel angry about it.
 QUEST_LV_0100_20150317_001765	Ho. As I expected.{nl}The one I am looking for must be marked.
 QUEST_LV_0100_20150317_001766	I am smarter than you guys think!{nl}Do you think I am gonna get deceived by you guys?
-QUEST_LV_0100_20150317_001767	It is a real honor to be selected as a member of the research team, but I am afraid that I would make a mistake.
+QUEST_LV_0100_20150317_001767	It is a real honor to be selected as a member of the research team, {nl}but I am afraid that I will eventually make a mistake.
 QUEST_LV_0100_20150317_001768	The man with silver hair requested me something, what was it?{nl}Was it blond hair?
 QUEST_LV_0100_20150317_001769	Forecastor Owl
 QUEST_LV_0100_20150317_001770	Necroventer has obstructed the road to thorn forest. {nl} you must defeat the Necroventer to go to the forest of thorns.
@@ -1813,8 +1813,8 @@ QUEST_LV_0100_20150317_001812	I can't stand this anymore.{nl}I will defeat it my
 QUEST_LV_0100_20150317_001813	Thanks for saying that.{nl}I will wait at Malkos Felled Area.
 QUEST_LV_0100_20150317_001814	If I was a little richer, then I would have hired a personal mercenary.{nl}It was my mistake to rely on the Goddess' blessing too much.
 QUEST_LV_0100_20150317_001815	I know many people are missing, but no one tries to find them.{nl}They don't even know those people even existed.
-QUEST_LV_0100_20150317_001816	We should make some money when the world is in chaos.{nl}Ah, never mind.
-QUEST_LV_0100_20150317_001817	Farewell to this land when this is over.{nl}I never saw that scary man before.
+QUEST_LV_0100_20150317_001816	We should make some money while the world is in chaos.{nl}Ah, nevermind.
+QUEST_LV_0100_20150317_001817	This land will be destroyed when this is all over.{nl}I've never seen anyone as scary as that man.
 QUEST_LV_0100_20150317_001818	No one will believe what I saw.{nl}I learned something interesting from it.
 QUEST_LV_0100_20150317_001819	I will lure Saugas.{nl}Bring me the poison from Woodfung near Alkune Stairway.{nl}And please also bring me the stone with vigor.{nl}
 QUEST_LV_0100_20150317_001820	It's fortunate that you two are okay.{nl}Thanks for recognizing me. May the Goddess bless you.
@@ -1872,7 +1872,7 @@ QUEST_LV_0100_20150317_001871	I will wait here patiently.{nl}No need to hurry si
 QUEST_LV_0100_20150317_001872	I feel reliable.{nl}I will see you at Isvalyta Ruins.
 QUEST_LV_0100_20150317_001873	Explained about the writings on the epitaph.
 QUEST_LV_0100_20150317_001874	Historian Odell
-QUEST_LV_0100_20150317_001875	There was an order to withdraw from here.{nl}I still have many things to research on.
+QUEST_LV_0100_20150317_001875	There was an order to withdraw from this area.{nl}But I still have many things to research.
 QUEST_LV_0100_20150317_001876	Are you looking for a person?{nl}Can you tell me the name of the person you are looking for?
 QUEST_LV_0100_20150317_001877	Are you sure the name is Rexipher?{nl}There's no one with such name on our list.{nl}Ask other people to see if there's someone who knows Rexipher.
 QUEST_LV_0100_20150317_001878	I searched the list and asked other people..{nl}There's no one with the name Rexipher.{nl}I am sorry that I couldn't be a help.
@@ -6865,7 +6865,7 @@ QUEST_LV_0100_20150428_006864	In order to go to Demons' Prision, you should go p
 QUEST_LV_0100_20150511_006865	Anyways, my guess is that those demons wake up again and control those Vubbes.(nl)The dream you had and the legend of Cunningham.. they may forecast something big.{nl}
 QUEST_LV_0100_20150511_006866	It's good to find the reason for the increase in the number of monsters in this forest.{nl}But, I am more worried about supplies being stopped to the mine village.
 QUEST_LV_0100_20150511_006867	Vubbe Warrior is hiding deep inside the felled area.{nl}I know that the order has come, but it may be safer to wait for the reinforcement here.
-QUEST_LV_0100_20150511_006868	If you face us as enemies, you should be careful not to lose your legs.{nl}Swords will come out from the lower part of the shields.{nl}
+QUEST_LV_0100_20150511_006868	If you faced us as enemies, you should be careful to not lose your legs.{nl}Swords will come out from the lower part of the shields.{nl}
 QUEST_LV_0100_20150511_006869	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of defeating them all at once, it will be better to learn my skills.
 QUEST_LV_0100_20150511_006870	I think, these words are indicating a very dangerous monster.{nl}Don't you think we should eliminate it?
 QUEST_LV_0100_20150511_006871	Ah, if you don't have confidence, you should be caught easily.{nl}Before you use the scroll, it is important to gain some confidence by fighting against the demons.
